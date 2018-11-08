@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <class>
     <Driver>oracle.jdbc.OracleDriver</Driver>
-    <DB_URL>jdbc:oracle:thin:@ora3.elka.pw.edu.pl:1521:ora3inf</DB_URL>
-    <Username>aszymowi</Username>
-    <Password>aszymowi</Password>
+    <DB_URL>jdbc:oracle:thin:.......</DB_URL>
+    <Username>........</Username>
+    <Password>........</Password>
 </class>
