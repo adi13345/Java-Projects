@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<class>
+ <PolandBall>GameGraphics//PolandBall.png</PolandBall>
+ <NaziBall>GameGraphics//NaziBall.png</NaziBall>
+ <TurkeyBall>GameGraphics//TurkeyBall.png</TurkeyBall>
+ <SovietBall>GameGraphics//SovietBall.png</SovietBall>
+ <HussarBall_Left>GameGraphics//Hussarball_left.png</HussarBall_Left>
+ <HussarBall_Right>GameGraphics//Hussarball_right.png</HussarBall_Right>
+ <Skrzynka>GameGraphics//Skrzynka.png</Skrzynka>
+ <Beton>GameGraphics//Beton.png</Beton>
+ <Door>GameGraphics//Door.png</Door>
+ <Key>GameGraphics//Key.png</Key>
+ <WingsOfHussars>GameGraphics//Winge_of_hussars.png</WingsOfHussars>
+ <ChestOfGold>GameGraphics//ChestOfGold.png</ChestOfGold>
+ <BoxOfBombs>GameGraphics//box_of_bombs.png</BoxOfBombs>
+ <GunLaser>GameGraphics//Gun_laser.png</GunLaser>
+ <Heart>GameGraphics//Heart.png</Heart>
+ <Normal_bomb>GameGraphics//Normal_bomb.gif</Normal_bomb>
+ <Remote_bomb>GameGraphics//Remote_bomb.png</Remote_bomb>
+ <Explosion>GameGraphics//Explosion-animation.gif</Explosion>
+ <Background>GameGraphics//Commonwealth-Tangle.png</Background>
+ <BackgroundForSetconnection>GameGraphics//polandstrong.png</BackgroundForSetconnection>
+
+</class>
+
