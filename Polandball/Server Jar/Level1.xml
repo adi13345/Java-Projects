@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<class>
+ <LEVEL1>
+  <Amountofcolumns>10</Amountofcolumns>
+  <Amountoflines>10</Amountoflines>
+  <Monsterspeed>2</Monsterspeed>
+  <Amountoflifes>3</Amountoflifes>
+  <Amountofordinarybombs>15</Amountofordinarybombs>
+  <Amountofremotebombs>5</Amountofremotebombs>
+  <Amountofhusarswings>1</Amountofhusarswings>
+  <Amountoflasers>1</Amountoflasers>
+  <Amountofkeys>0</Amountofkeys>
+  <LevelTime>240</LevelTime>
+
+
+  <row>N_ NG N_ S_ S_ S_ S_ S_ S_ SK</row>
+  <row>N_ B_ SI B_ S_ S_ N_ S_ SI S_</row>
+  <row>N_ B_ SI B_ S_ S_ NW S_ S_ S_</row>
+  <row>N_ SI S_ S_ S_ S_ N_ S_ S_ S_</row>
+  <row>S_ SI S_ S_ SI S_ S_ S_ S_ S_</row>
+  <row>NW N_ N_ S_ S_ SI S_ S_ S_ S_</row>
+  <row>S_ SI S_ S_ SI S_ N_ N_ NW N_</row>
+  <row>S_ S_ S_ SI S_ S_ N_ S_ B_ S_</row>
+  <row>S_ SI S_ S_ S_ S_ NW S_ B_ S_</row>
+  <row>S_ SI SI S_ S_ N_ S_ SI B_ SD</row>
+
+
+
+ </LEVEL1>
+</class>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<class>
+ <Boardheight>700</Boardheight>
+ <Boardwidth>1000</Boardwidth>
+ <MainFrameheight>400</MainFrameheight>
+ <MainFramewidth>400</MainFramewidth>
+ <HighscoresFrameSize>500</HighscoresFrameSize>
+ <SpeedPlayer>5</SpeedPlayer>
+ <TimeToExplosion>1</TimeToExplosion>
+
+ <PointsForCreate>20</PointsForCreate>
+ <PointsForMonster>100</PointsForMonster>
+ <PointsForItem>10</PointsForItem>
+ <PointsForChestOfGold>1000</PointsForChestOfGold>
+ <PointsForKey>50</PointsForKey>
+ <PointsForLevel>500</PointsForLevel>
+ <PointsForSecond>3</PointsForSecond>
+
+</class>
