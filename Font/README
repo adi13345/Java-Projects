@@ -1,0 +1,9 @@
+Aplikacja stworzona w ramach rozrywki podczas praktych w jednej z firm, będącej wówczas dystrybutorem Huawei'a
+Docelowo aplikacja miała za zadanie automatyzacje pozyskiwania danych sprzętowych urządzeń sieciowych (numery seryjne kart sieciowych, zasilaczy itd.)
+Oprócz wyżej wymienionej funkcjonalności aplikacja oferuje:
+- mozliwość postawienia prostego (najprostszego) serwera FTP (przydate w przypadku aktualizacje/zmiany oprogramowania urządzenia)
+- wybór typu połączenia (telnet lub przez kabel serialowy)
+- mozliwość konfiguracji urządzenia 
+Aplikacja zapisuje zebrany output do pliku excel'owego (celowo pozmieniane niektóre pola)
+Dodatkowo aplikacja była rozszerzona o możliwośc generowania skryptów do konfiguracji urządzeń w architekturze typu Ring, 
+pomysł porzuciłem ze względu na zbyt małe doświadczenie sieciowe (aplikacje generuje skrypty konfigurujące jedynie adresy odpowiednich interfejsów ora vlan-y)
