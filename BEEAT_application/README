@@ -1,11 +1,12 @@
 Aplikacja stworzona w ramach projektu jednego z przedmiotów (Systemy komunikacji ruchomej)
-Aplikacja umożliwia realizację automatycznych powiadomień sms realizowanych o określonym czasie (godzina, dzień, miesiąc) powtarzanych (lub nie) co pewien interwał czasowy
+Aplikacja umożliwia realizację automatycznych powiadomień sms wykonywanych o określonym czasie (godzina, dzień, miesiąc) powtarzanych (lub nie) co pewien interwał czasowy
 Aplikacja komunikuje się z modułem komórkowym przy pomocy komend AT.
 Dodatkowo aplikacja umożliwia:
 - wysyłanie jendorazowej wiadomości
 - tworzenie plików z numerami i wiadomoścami, które można łączyć w dowolne kombinacje (niezbędne do wysylania automatycznych wiadomości)
-- sprawdzanie parametrów telefonu: statusu rejestracji, statusu baterii oraz poziom naładowania (w przypadku telefonu) oraz poziom odbieranej mocy sygnału z najbliższej stacji bazowej
+- sprawdzanie parametrów modułu: statusu rejestracji (oraz typ dostępu: EGPRS, UTRAN itd.), statusu baterii i poziomu naładowania (w przypadku telefonu) oraz poziomu odbieranej mocy sygnału z najbliższej stacji bazowej
 
 W aplikacji działa wiele wątków, które są synchronizowane na podobnej zasadzie jak Token Ring
+Aplikacja wykorzystuje dodatkowo niestandardową bibliotekę graficzną JFoenix (wersja 9.0.4)
 
-(help nie działa)
+(help póki co nie działa)
