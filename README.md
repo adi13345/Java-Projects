@@ -1,2 +1,6 @@
 # Java-Projects
-Autor: Adrian Szymowiat
+
+Aplikacje tworzone w ramach projektów ze studiów oraz w ramach samorozwoju.
+
+Kolejność powstawania:
+
