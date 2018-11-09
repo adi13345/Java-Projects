@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<class>
+    <!-- wszelkie delay-e podane w milisekundach -->
+    <command_delay>500</command_delay>
+    <controlthread_delay>2000</controlthread_delay>
+    <default_path_to_numbers>user.dir</default_path_to_numbers>
+    <default_path_to_messages>user.dir</default_path_to_messages>
+    <default_path_to_configurations>user.dir</default_path_to_configurations>
+    <default_language>pl</default_language> <!-- http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html -->
+    <default_language_region>PL</default_language_region>
+    <check_time_periodicity>1000</check_time_periodicity>
+</class>
