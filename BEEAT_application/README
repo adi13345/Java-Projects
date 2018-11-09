@@ -1,0 +1,9 @@
+Aplikacja stworzona w ramach projektu jednego z przedmiotów (Systemy komunikacji ruchomej)
+Aplikacja umożliwia realizację automatycznych powiadomień sms realizowanych o określonym czasie (godzina, dzień, miesiąc) powtarzanych (lub nie) co pewien interwał czasowy
+Aplikacja komunkuje się z modułem komórkowym przy pomocy komend AT.
+Dodatkowo aplikacja umożliwia:
+- wysyłanie jendorazowej wiadomości
+- tworzenie plików z numerami i wiadomoścami, które można łączyć w dowolne kombinacje (niezbędne do wysylania automatycznych wiadomości)
+- sprawdzanie parametrów telefonu: statusu rejestracji, statusu baterii oraz poziom naładowania (w przypadku telefonu) oraz poziom odbieranej mocy sygnału z najbliższej stacji bazowej
+
+(help nie działa)
