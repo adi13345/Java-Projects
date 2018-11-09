@@ -1,1 +1,4 @@
-
+Aplikacja stworzona w ramach projektu jednego z przedmiotów (Java - obiektowe programowanie aplikacji multimedialnych)
+Aplikacja została zaprojektowana w architekturze klient-serwer
+Umożliwia archiwizację dowolnych plików o dość dużych rozmiarach (do ~4GB) oraz implementuje dodatkowe funkcjonalności zawarte w instrukcji
+Serwer stworzony w całości przeze mnie, natomiast klient z pomocą kolegi z zespołu.
