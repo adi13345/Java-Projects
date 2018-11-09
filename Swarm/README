@@ -1,1 +1,4 @@
+Biblioteka stworzona w celu obudowania biblioteki Jsch
+Obecnie zawiera również kilka przydatnych metod operujących na plikach
 
+Planuje rozszerzyć ją o obudowanie bilbioteki do komunikacji serialowej oraz biblioteki implementującej protokół FTP
