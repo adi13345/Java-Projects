@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<class>
+    <User>
+        <Login>Admin</Login>
+        <Password>123</Password>
+        <ID>1</ID>
+        <Path>Archives//Admin</Path>
+    </User>
+    <User>
+        <Login>Adrian</Login>
+        <Password>345123</Password>
+        <ID>23</ID>
+        <Path>Archives//Adrian</Path>
+    </User>
+    <User>
+        <Login>Mateusz</Login>
+        <Password>lubiemacka1</Password>
+        <ID>13</ID>
+        <Path>Archives//Mateusz</Path>
+    </User>
+    <User>
+        <Login>Maciek</Login>
+        <Password>analiza12</Password>
+        <ID>666</ID>
+        <Path>Archives//Maciek</Path>
+    </User>
+</class>

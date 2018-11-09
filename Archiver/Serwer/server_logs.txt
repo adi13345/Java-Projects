@@ -1,0 +1,2214 @@
+﻿[20.11.2017 20:25:38]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 20:25:39]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 20:25:40]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 20:25:42]: Próba logowania klienta: Admin%123
+[20.11.2017 20:25:42]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:26:05]: ŻĄDANIE 1: LOGOUT
+[20.11.2017 20:26:05]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[20.11.2017 20:26:12]: Próba logowania klienta: Admin%123
+[20.11.2017 20:26:12]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:26:14]: ŻĄDANIE 1: LOGOUT
+[20.11.2017 20:26:14]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[20.11.2017 20:26:33]: Zamknieto gniazdo serwera
+[20.11.2017 20:26:33]: Serwer został pomyślnie wyłączony
+[20.11.2017 20:26:33]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 20:27:17]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 20:27:17]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 20:27:18]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 20:27:20]: Próba logowania klienta: Admin%123
+[20.11.2017 20:27:20]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:27:22]: ŻĄDANIE 1: LOGOUT
+[20.11.2017 20:27:22]: Użytkownik o ID: 1 został wylogowany
+[20.11.2017 20:49:24]: Zamknieto gniazdo serwera
+[20.11.2017 20:49:24]: Serwer został pomyślnie wyłączony
+[20.11.2017 20:49:24]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 20:49:28]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 20:49:28]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 20:49:29]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 20:49:41]: Próba logowania klienta: Admin%123
+[20.11.2017 20:49:41]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:50:13]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 20:51:19]: Próba logowania klienta: Admin%123
+[20.11.2017 20:51:19]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:52:37]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 20:53:26]: Próba logowania klienta: Admin%123
+[20.11.2017 20:53:26]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:53:46]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 20:54:14]: Próba logowania klienta: Admin%123
+[20.11.2017 20:54:14]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:54:19]: ŻĄDANIE 1: GIVE_FILE:testowy.txt
+[20.11.2017 20:55:02]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 20:57:02]: Zamknieto gniazdo serwera
+[20.11.2017 20:57:02]: Serwer został pomyślnie wyłączony
+[20.11.2017 20:57:02]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 20:57:06]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 20:57:06]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 20:57:07]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 20:57:13]: Próba logowania klienta: Admin%123
+[20.11.2017 20:57:13]: Logowanie przebieglo pomyslnie
+[20.11.2017 20:57:15]: ŻĄDANIE 1: GIVE_FILE:testowy.txt
+[20.11.2017 20:57:15]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[20.11.2017 20:59:15]: Zamknieto gniazdo serwera
+[20.11.2017 20:59:16]: Serwer został pomyślnie wyłączony
+[20.11.2017 20:59:16]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 20:59:58]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 20:59:59]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 20:59:59]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 21:00:02]: Próba logowania klienta: Admin%123
+[20.11.2017 21:00:02]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:00:03]: ŻĄDANIE 1: GIVE_FILE:testowy.txt
+[20.11.2017 21:00:03]: Rozpoczęto wysyłanie pliku testowy.txt
+[20.11.2017 21:00:03]: Ukończono wysyłanie pliku testowy.txt
+[20.11.2017 21:00:46]: Zamknieto gniazdo serwera
+[20.11.2017 21:00:46]: Serwer został pomyślnie wyłączony
+[20.11.2017 21:00:46]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 21:00:51]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 21:00:51]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 21:00:52]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 21:01:28]: Próba logowania klienta: Admin%123
+[20.11.2017 21:01:28]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:01:32]: ŻĄDANIE 1: GIVE_FILE:testowy.txt
+[20.11.2017 21:01:32]: Rozpoczęto wysyłanie pliku testowy.txt
+[20.11.2017 21:01:32]: Ukończono wysyłanie pliku testowy.txt
+[20.11.2017 21:03:36]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:20:39]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 21:20:39]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 21:20:43]: Próba logowania klienta: Admin%123
+[20.11.2017 21:20:43]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:20:45]: ŻĄDANIE 1: SHOW_FILES:0
+[20.11.2017 21:20:59]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:23:41]: Zamknieto gniazdo serwera
+[20.11.2017 21:23:41]: Serwer został pomyślnie wyłączony
+[20.11.2017 21:23:41]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 21:23:44]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 21:23:44]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 21:23:45]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 21:23:52]: Próba logowania klienta: Admin%123
+[20.11.2017 21:23:52]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:23:57]: ŻĄDANIE 1: SHOW_FILES:0
+[20.11.2017 21:24:24]: ŻĄDANIE 1: SHOW_FILES:0
+[20.11.2017 21:24:41]: ŻĄDANIE 1: LOGOUT
+[20.11.2017 21:24:41]: Użytkownik o ID: 1 został wylogowany
+[20.11.2017 21:27:59]: Próba logowania klienta: Admin%123
+[20.11.2017 21:27:59]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:28:01]: ŻĄDANIE 1: SHOW_FILES:0
+[20.11.2017 21:28:37]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:28:59]: Próba logowania klienta: Admin%123
+[20.11.2017 21:28:59]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:29:00]: ŻĄDANIE 1: SHOW_FILES:0
+[20.11.2017 21:29:13]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:36:15]: Zamknieto gniazdo serwera
+[20.11.2017 21:36:15]: Serwer został pomyślnie wyłączony
+[20.11.2017 21:36:15]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 21:36:20]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 21:36:20]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 21:36:21]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 21:36:35]: Próba logowania klienta: Admin%123
+[20.11.2017 21:36:35]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:36:37]: ŻĄDANIE 1: DELETE_FILES:server_logs.txt%testowy 3.txt%testowy.txt
+[20.11.2017 21:36:50]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:41:22]: Zamknieto gniazdo serwera
+[20.11.2017 21:41:22]: Serwer został pomyślnie wyłączony
+[20.11.2017 21:41:22]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[20.11.2017 21:41:27]: ------------------------------------>START APLIKACJI<-------------------------------------
+[20.11.2017 21:41:27]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[20.11.2017 21:41:28]: Uruchomiono serwer, numer portu: 49351
+[20.11.2017 21:41:37]: Próba logowania klienta: Admin%123
+[20.11.2017 21:41:37]: Logowanie przebieglo pomyslnie
+[20.11.2017 21:41:39]: ŻĄDANIE 1: DELETE_FILES:server_logs.txt%testowy 3.txt%testowy.txt
+[20.11.2017 21:41:39]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[20.11.2017 21:41:39]: Ukończono usuwanie plików użytkownika o ID: 1
+[20.11.2017 21:42:49]: Zresetowano połączenie użytkownika o ID: 1
+[20.11.2017 21:42:49]: Zamknieto gniazdo serwera
+[20.11.2017 21:42:49]: Serwer został pomyślnie wyłączony
+[20.11.2017 21:42:49]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:16:23]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:16:24]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:16:25]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:16:26]: Próba logowania klienta: Admin%123
+[21.11.2017 16:16:26]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:16:37]: ŻĄDANIE 1: TAKE_FILE:7453344%Wireshark.exe%1504031530000
+[21.11.2017 16:16:37]: Rozpoczęto pobieranie pliku Wireshark.exe
+[21.11.2017 16:16:37]: Ukończono pobieranie pliku Wireshark.exe
+[21.11.2017 16:16:41]: ŻĄDANIE 1: TAKE_FILE:7453344%Wireshark.exe%1504031530000
+[21.11.2017 16:16:41]: Podany plik już istnieje.
+[21.11.2017 16:16:45]: ŻĄDANIE 1: TAKE_FILE:7453344%Wireshark.exe%1504031530000
+[21.11.2017 16:16:45]: Podany plik już istnieje.
+[21.11.2017 16:16:57]: ŻĄDANIE 1: TAKE_FILE:7453344%Wireshark.exe%1504031530000
+[21.11.2017 16:16:57]: Podany plik już istnieje.
+[21.11.2017 16:17:19]: ŻĄDANIE 1: TAKE_FILE:79%testowy.txt%1510486218971
+[21.11.2017 16:17:19]: Podany plik już istnieje.
+[21.11.2017 16:18:02]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:18:02]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:18:27]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:18:27]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:20:51]: Zamknieto gniazdo serwera
+[21.11.2017 16:20:51]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:20:51]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:20:59]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:20:59]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:21:00]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:21:01]: Próba logowania klienta: Admin%123
+[21.11.2017 16:21:01]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:21:13]: ŻĄDANIE 1: TAKE_FILE:5975216%SVNClient.exe%1471247876000
+[21.11.2017 16:21:13]: Rozpoczęto pobieranie pliku SVNClient.exe
+[21.11.2017 16:21:13]: Ukończono pobieranie pliku SVNClient.exe
+[21.11.2017 16:21:23]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:21:23]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:25:08]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:25:08]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:27:51]: Zamknieto gniazdo serwera
+[21.11.2017 16:27:51]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:27:51]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:28:41]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:28:41]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:28:42]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:28:44]: Próba logowania klienta: Admin%123
+[21.11.2017 16:28:44]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:28:52]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:28:52]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:31:32]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:31:32]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:31:34]: Zamknieto gniazdo serwera
+[21.11.2017 16:31:34]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:31:34]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:31:38]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:31:38]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:31:39]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:31:43]: Próba logowania klienta: Admin%123
+[21.11.2017 16:31:43]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:31:57]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:31:57]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:33:23]: Zamknieto gniazdo serwera
+[21.11.2017 16:33:23]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:33:23]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:33:28]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:33:28]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:33:29]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:33:33]: Próba logowania klienta: Admin%123
+[21.11.2017 16:33:33]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:33:49]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:33:50]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:35:18]: Zamknieto gniazdo serwera
+[21.11.2017 16:35:18]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:35:18]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:35:24]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:35:25]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:35:25]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:35:32]: Próba logowania klienta: Admin%123
+[21.11.2017 16:35:32]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:35:43]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:35:43]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:36:42]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:36:42]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:36:45]: Zamknieto gniazdo serwera
+[21.11.2017 16:36:45]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:36:45]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:36:50]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:36:50]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:36:52]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:36:53]: Próba logowania klienta: Admin%123
+[21.11.2017 16:36:53]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:37:05]: ŻĄDANIE 1: TAKE_FILE:9856176%CCleaner64.exe%1505893706000
+[21.11.2017 16:37:05]: Rozpoczęto pobieranie pliku CCleaner64.exe
+[21.11.2017 16:37:06]: Ukończono pobieranie pliku CCleaner64.exe
+[21.11.2017 16:37:08]: ŻĄDANIE 1: TAKE_FILE:9856176%CCleaner64.exe%1505893706000
+[21.11.2017 16:37:08]: Podany plik już istnieje.
+[21.11.2017 16:37:21]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:37:21]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:37:21]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:37:25]: ŻĄDANIE 1: TAKE_FILE:107%testowy.txt%1511277458144
+[21.11.2017 16:37:25]: Podany plik już istnieje.
+[21.11.2017 16:38:22]: ŻĄDANIE 1: TAKE_FILE:45%testowy.txt%1511278698461
+[21.11.2017 16:38:22]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:39:33]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:39:33]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:39:36]: Zamknieto gniazdo serwera
+[21.11.2017 16:39:36]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:39:36]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:39:54]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:39:54]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:39:55]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:39:55]: Próba logowania klienta: Admin%123
+[21.11.2017 16:39:55]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:40:06]: ŻĄDANIE 1: TAKE_FILE:45%testowy.txt%1511278698461
+[21.11.2017 16:40:06]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:42:36]: Nastąpił błąd podczas odbierania pliku klienta o ID: 1
+[21.11.2017 16:42:36]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:44:23]: Zamknieto gniazdo serwera
+[21.11.2017 16:44:23]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:44:23]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:44:26]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:44:26]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:44:27]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:44:32]: Próba logowania klienta: Admin%123
+[21.11.2017 16:44:32]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:44:39]: ŻĄDANIE 1: TAKE_FILE:1345224%idea64.exe%1506406836000
+[21.11.2017 16:44:39]: Rozpoczęto pobieranie pliku idea64.exe
+[21.11.2017 16:44:39]: Ukończono pobieranie pliku idea64.exe
+[21.11.2017 16:45:27]: ŻĄDANIE 1: TAKE_FILE:0%testowy 3.txt%1510488654669
+[21.11.2017 16:45:27]: Podany plik już istnieje.
+[21.11.2017 16:45:39]: ŻĄDANIE 1: TAKE_FILE:45%testowy.txt%1511278698461
+[21.11.2017 16:45:39]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:48:16]: Zamknieto gniazdo serwera
+[21.11.2017 16:48:16]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:48:16]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:48:41]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:48:41]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:48:42]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:48:53]: Próba logowania klienta: Admin%123
+[21.11.2017 16:48:54]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:49:05]: ŻĄDANIE 1: TAKE_FILE:45%testowy.txt%1511278698461
+[21.11.2017 16:49:05]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:49:05]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:49:15]: ŻĄDANIE 1: TAKE_FILE:45%testowy.txt%1511278698461
+[21.11.2017 16:49:15]: Podany plik już istnieje.
+[21.11.2017 16:49:45]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:49:45]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:49:45]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:50:15]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:50:15]: Podany plik już istnieje.
+[21.11.2017 16:50:16]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:50:16]: Podany plik już istnieje.
+[21.11.2017 16:51:20]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:51:20]: Podany plik już istnieje.
+[21.11.2017 16:51:26]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:51:26]: Podany plik już istnieje.
+[21.11.2017 16:51:26]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[21.11.2017 16:51:26]: Rozpoczęto pobieranie pliku DTLauncher.exe
+[21.11.2017 16:51:26]: Ukończono pobieranie pliku DTLauncher.exe
+[21.11.2017 16:51:31]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:51:31]: Podany plik już istnieje.
+[21.11.2017 16:51:31]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[21.11.2017 16:51:31]: Podany plik już istnieje.
+[21.11.2017 16:51:35]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 16:51:36]: Zamknieto gniazdo serwera
+[21.11.2017 16:51:36]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:51:36]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:51:50]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:51:50]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:51:51]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:52:11]: Próba logowania klienta: Admin%123
+[21.11.2017 16:52:11]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:52:23]: ŻĄDANIE 1: TAKE_FILE:98%testowy.txt%1511279382431
+[21.11.2017 16:52:23]: Podany plik już istnieje.
+[21.11.2017 16:52:33]: ŻĄDANIE 1: TAKE_FILE:116%testowy.txt%1511279549716
+[21.11.2017 16:52:33]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:52:33]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:53:23]: Zamknieto gniazdo serwera
+[21.11.2017 16:53:23]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:53:23]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:54:01]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:54:02]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:54:03]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:54:12]: Próba logowania klienta: Admin%123
+[21.11.2017 16:54:12]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:54:33]: ŻĄDANIE 1: TAKE_FILE:139%testowy.txt%1511279650156
+[21.11.2017 16:54:33]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:54:33]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:54:39]: ŻĄDANIE 1: TAKE_FILE:139%testowy.txt%1511279650156
+[21.11.2017 16:54:39]: Podany plik już istnieje.
+[21.11.2017 16:54:54]: ŻĄDANIE 1: TAKE_FILE:46%testowy.txt%1511279691469
+[21.11.2017 16:54:54]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:56:40]: Zamknieto gniazdo serwera
+[21.11.2017 16:56:40]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:56:40]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:57:04]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:57:04]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:57:05]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:57:08]: Próba logowania klienta: Admin%123
+[21.11.2017 16:57:08]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:57:23]: ŻĄDANIE 1: TAKE_FILE:46%testowy.txt%1511279691469
+[21.11.2017 16:57:23]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:57:36]: Zamknieto gniazdo serwera
+[21.11.2017 16:57:36]: Serwer został pomyślnie wyłączony
+[21.11.2017 16:57:36]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[21.11.2017 16:57:47]: ------------------------------------>START APLIKACJI<-------------------------------------
+[21.11.2017 16:57:48]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[21.11.2017 16:57:49]: Uruchomiono serwer, numer portu: 49351
+[21.11.2017 16:57:52]: Próba logowania klienta: Admin%123
+[21.11.2017 16:57:52]: Logowanie przebieglo pomyslnie
+[21.11.2017 16:57:59]: ŻĄDANIE 1: TAKE_FILE:46%testowy.txt%1511279691469
+[21.11.2017 16:57:59]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:57:59]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:58:03]: ŻĄDANIE 1: TAKE_FILE:46%testowy.txt%1511279691469
+[21.11.2017 16:58:03]: Podany plik już istnieje.
+[21.11.2017 16:58:16]: ŻĄDANIE 1: TAKE_FILE:303%testowy.txt%1511279893988
+[21.11.2017 16:58:16]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:58:16]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:58:25]: ŻĄDANIE 1: TAKE_FILE:5%testowy.txt%1511279903102
+[21.11.2017 16:58:25]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:58:25]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 16:59:45]: ŻĄDANIE 1: TAKE_FILE:5%testowy.txt%1511279903102
+[21.11.2017 16:59:45]: Podany plik już istnieje.
+[21.11.2017 16:59:59]: ŻĄDANIE 1: TAKE_FILE:158%testowy.txt%1511279996950
+[21.11.2017 16:59:59]: Rozpoczęto pobieranie pliku testowy.txt
+[21.11.2017 16:59:59]: Ukończono pobieranie pliku testowy.txt
+[21.11.2017 17:00:08]: Zresetowano połączenie użytkownika o ID: 1
+[21.11.2017 17:00:09]: Zamknieto gniazdo serwera
+[21.11.2017 17:00:09]: Serwer został pomyślnie wyłączony
+[21.11.2017 17:00:09]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[24.11.2017 15:04:32]: ------------------------------------>START APLIKACJI<-------------------------------------
+[24.11.2017 15:04:33]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[24.11.2017 15:04:35]: Uruchomiono serwer, numer portu: 49351
+[24.11.2017 15:05:10]: Próba logowania klienta: Admin%123
+[24.11.2017 15:05:10]: Logowanie przebieglo pomyslnie
+[24.11.2017 16:10:27]: Zresetowano połączenie użytkownika o ID: 1
+[24.11.2017 16:10:35]: Próba logowania klienta: Admin%123
+[24.11.2017 16:10:35]: Logowanie przebieglo pomyslnie
+[24.11.2017 16:11:25]: ŻĄDANIE 1: LOGOUT
+[24.11.2017 16:11:25]: Użytkownik o ID: 1 został wylogowany
+[24.11.2017 16:11:37]: Próba logowania klienta: Admin%123
+[24.11.2017 16:11:37]: Logowanie przebieglo pomyslnie
+[24.11.2017 16:12:16]: Zamknieto gniazdo serwera
+[24.11.2017 16:12:16]: Serwer został pomyślnie wyłączony
+[24.11.2017 16:12:16]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[24.11.2017 16:12:23]: ------------------------------------>START APLIKACJI<-------------------------------------
+[24.11.2017 16:12:23]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[24.11.2017 16:12:24]: Uruchomiono serwer, numer portu: 49351
+[24.11.2017 16:12:47]: Próba logowania klienta: Admin%123
+[24.11.2017 16:12:47]: Logowanie przebieglo pomyslnie
+[24.11.2017 16:12:51]: ŻĄDANIE 1: LOGOUT
+[24.11.2017 16:12:51]: Użytkownik o ID: 1 został wylogowany
+[24.11.2017 16:40:43]: Próba logowania klienta: Admin%123
+[24.11.2017 16:40:43]: Logowanie przebieglo pomyslnie
+[24.11.2017 16:40:50]: ŻĄDANIE 1: TAKE_FILE:309221%4.pdf%1511528414147
+[24.11.2017 16:40:50]: Rozpoczęto pobieranie pliku 4.pdf
+[24.11.2017 16:40:50]: Ukończono pobieranie pliku 4.pdf
+[24.11.2017 16:41:35]: Zamknieto gniazdo serwera
+[24.11.2017 16:41:35]: Serwer został pomyślnie wyłączony
+[24.11.2017 16:41:35]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[24.11.2017 20:43:07]: ------------------------------------>START APLIKACJI<-------------------------------------
+[24.11.2017 20:43:07]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[24.11.2017 20:43:08]: Uruchomiono serwer, numer portu: 49351
+[24.11.2017 20:45:27]: Próba logowania klienta: Admin%123
+[24.11.2017 20:45:27]: Logowanie przebieglo pomyslnie
+[24.11.2017 20:45:38]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 20:45:38]: Rozpoczęto pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:45:38]: Ukończono pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:45:42]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 20:45:45]: ŻĄDANIE 1: DELETE_FILES:Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:45:45]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:45:45]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:45:52]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 20:45:52]: Rozpoczęto pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:45:53]: Ukończono pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:45:54]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 20:45:54]: Podany plik już istnieje.
+[24.11.2017 20:46:04]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 20:46:16]: ŻĄDANIE 1: DELETE_FILES:Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:46:16]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:46:16]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:47:12]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 20:47:12]: Rozpoczęto pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:47:12]: Ukończono pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:47:12]: ŻĄDANIE 1: TAKE_FILE:9238192%AvastUI.exe%1510808937625
+[24.11.2017 20:47:12]: Rozpoczęto pobieranie pliku AvastUI.exe
+[24.11.2017 20:47:12]: Ukończono pobieranie pliku AvastUI.exe
+[24.11.2017 20:47:17]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 20:47:21]: ŻĄDANIE 1: GIVE_FILE:AvastUI.exe
+[24.11.2017 20:47:21]: Rozpoczęto wysyłanie pliku AvastUI.exe
+[24.11.2017 20:47:21]: Ukończono wysyłanie pliku AvastUI.exe
+[24.11.2017 20:48:24]: ŻĄDANIE 1: GIVE_FILE:server_logs.txt
+[24.11.2017 20:48:24]: Rozpoczęto wysyłanie pliku server_logs.txt
+[24.11.2017 20:48:24]: Ukończono wysyłanie pliku server_logs.txt
+[24.11.2017 20:48:31]: ŻĄDANIE 1: DELETE_FILES:AvastUI.exe
+[24.11.2017 20:48:31]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:48:31]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:48:33]: ŻĄDANIE 1: DELETE_FILES:Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:48:33]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:48:33]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:49:08]: Próba logowania klienta: Mateusz%lubiemacka1
+[24.11.2017 20:49:08]: Logowanie przebieglo pomyslnie
+[24.11.2017 20:49:18]: ŻĄDANIE 13: SHOW_FILES:0
+[24.11.2017 20:49:18]: Folder użytkownika o ID 13 jest pusty
+[24.11.2017 20:49:45]: ŻĄDANIE 13: TAKE_FILE:1266186%CAM00252.jpg%1418026498000
+[24.11.2017 20:49:45]: Rozpoczęto pobieranie pliku CAM00252.jpg
+[24.11.2017 20:49:45]: Ukończono pobieranie pliku CAM00252.jpg
+[24.11.2017 20:49:47]: ŻĄDANIE 13: SHOW_FILES:0
+[24.11.2017 20:49:52]: ŻĄDANIE 13: DELETE_FILES:CAM00252.jpg
+[24.11.2017 20:49:52]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[24.11.2017 20:49:52]: Ukończono usuwanie plików użytkownika o ID: 13
+[24.11.2017 20:49:57]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 20:49:57]: Rozpoczęto pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:49:57]: Ukończono pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:49:57]: ŻĄDANIE 1: TAKE_FILE:9238192%AvastUI.exe%1510808937625
+[24.11.2017 20:49:57]: Rozpoczęto pobieranie pliku AvastUI.exe
+[24.11.2017 20:49:57]: Ukończono pobieranie pliku AvastUI.exe
+[24.11.2017 20:49:58]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 20:50:05]: ŻĄDANIE 1: DELETE_FILES:AvastUI.exe
+[24.11.2017 20:50:05]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:50:05]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:50:07]: ŻĄDANIE 1: DELETE_FILES:Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 20:50:07]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:50:07]: Ukończono usuwanie plików użytkownika o ID: 1
+[24.11.2017 20:50:25]: ŻĄDANIE 1: TAKE_FILE:158%testowy.txt%1511279996950
+[24.11.2017 20:50:25]: Podany plik już istnieje.
+[24.11.2017 20:50:35]: ŻĄDANIE 1: TAKE_FILE:163%testowy.txt%1511553031365
+[24.11.2017 20:50:35]: Rozpoczęto pobieranie pliku testowy.txt
+[24.11.2017 20:50:35]: Ukończono pobieranie pliku testowy.txt
+[24.11.2017 20:50:40]: ŻĄDANIE 1: LOGOUT
+[24.11.2017 20:50:40]: Użytkownik o ID: 1 został wylogowany
+[24.11.2017 20:51:14]: Próba logowania klienta: Admin%123
+[24.11.2017 20:51:14]: Logowanie przebieglo pomyslnie
+[24.11.2017 20:52:15]: Zamknieto gniazdo serwera
+[24.11.2017 20:52:15]: Serwer został pomyślnie wyłączony
+[24.11.2017 20:52:16]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[24.11.2017 21:13:32]: ------------------------------------>START APLIKACJI<-------------------------------------
+[24.11.2017 21:13:32]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[24.11.2017 21:13:33]: Uruchomiono serwer, numer portu: 49351
+[24.11.2017 21:13:34]: Próba logowania klienta: LOGIN:Admin%123
+[24.11.2017 21:13:34]: Logowanie przebieglo pomyslnie
+[24.11.2017 21:13:37]: ŻĄDANIE 1: LOGOUT
+[24.11.2017 21:13:37]: Użytkownik o ID: 1 został wylogowany
+[24.11.2017 21:13:38]: Próba logowania klienta: LOGIN:Admin%123
+[24.11.2017 21:13:38]: Logowanie przebieglo pomyslnie
+[24.11.2017 21:57:43]: ŻĄDANIE 1: TAKE_FILE:163%testowy.txt%1511553031365
+[24.11.2017 21:57:43]: Podany plik już istnieje.
+[24.11.2017 21:57:52]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 21:57:56]: ŻĄDANIE 1: TAKE_FILE:163%testowy.txt%1511553031365
+[24.11.2017 21:57:56]: Podany plik już istnieje.
+[24.11.2017 21:57:56]: ŻĄDANIE 1: TAKE_FILE:78081%Lista_pochodnych_i_pierwotnych.pdf%1481033142000
+[24.11.2017 21:57:56]: Rozpoczęto pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 21:57:56]: Ukończono pobieranie pliku Lista_pochodnych_i_pierwotnych.pdf
+[24.11.2017 21:58:03]: ŻĄDANIE 1: SHOW_FILES:0
+[24.11.2017 22:37:11]: Zamknieto gniazdo serwera
+[24.11.2017 22:37:11]: Serwer został pomyślnie wyłączony
+[24.11.2017 22:37:11]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 11:55:19]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 11:55:19]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 11:55:20]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 12:07:48]: Próba logowania klienta: Admin%1
+[25.11.2017 12:07:48]: Wystąpił błąd podczas weryfikacja klienta: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 12:09:08]: Próba logowania klienta: Admin%123
+[25.11.2017 12:09:08]: Wystąpił błąd podczas weryfikacja klienta: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 12:09:20]: Zamknieto gniazdo serwera
+[25.11.2017 12:09:20]: Serwer został pomyślnie wyłączony
+[25.11.2017 12:09:20]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 12:10:35]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 12:10:35]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 12:10:35]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 12:11:24]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:11:24]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:20:35]: Zamknieto gniazdo serwera
+[25.11.2017 12:20:35]: Serwer został pomyślnie wyłączony
+[25.11.2017 12:20:35]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 12:20:38]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 12:20:38]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 12:20:38]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 12:20:48]: Próba logowania klienta: LOGIN:Admin%12
+[25.11.2017 12:20:48]: Nieprawidłowy login lub hasło
+[25.11.2017 12:20:50]: Próba logowania klienta: LOGIN:Admin%12
+[25.11.2017 12:20:50]: Nieprawidłowy login lub hasło
+[25.11.2017 12:21:00]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:21:00]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:21:03]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:21:03]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:29:42]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:29:42]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:29:49]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:29:49]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 12:30:58]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:30:58]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:31:04]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:31:04]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:31:08]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:31:08]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:31:25]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:31:25]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:31:37]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:31:37]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 12:31:44]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:31:44]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 12:32:03]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:32:03]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:32:08]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:32:08]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:32:10]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:32:10]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:35:34]: Próba logowania klienta: LOGIN:Admin%1
+[25.11.2017 12:35:34]: Nieprawidłowy login lub hasło
+[25.11.2017 12:35:37]: Próba logowania klienta: LOGIN:Admin%1
+[25.11.2017 12:35:37]: Nieprawidłowy login lub hasło
+[25.11.2017 12:35:41]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:35:41]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:35:43]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:35:43]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:35:49]: Próba logowania klienta: LOGIN:add%123
+[25.11.2017 12:35:49]: Nieprawidłowy login lub hasło
+[25.11.2017 12:35:53]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:35:53]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:36:03]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:36:03]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 12:36:05]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:36:05]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 12:36:21]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:36:21]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:41:25]: Zamknieto gniazdo serwera
+[25.11.2017 12:41:25]: Serwer został pomyślnie wyłączony
+[25.11.2017 12:41:25]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 12:45:14]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 12:45:14]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 12:45:15]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 12:45:17]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:45:17]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:47:48]: ŻĄDANIE 1: SHOW_FILES:0
+[25.11.2017 12:48:17]: ŻĄDANIE 1: TAKE_FILE:0%testowy 3.txt%1510488654669
+[25.11.2017 12:48:17]: Podany plik już istnieje.
+[25.11.2017 12:48:17]: ŻĄDANIE 1: TAKE_FILE:238485%server_logs.txt%1511122491507
+[25.11.2017 12:48:17]: Podany plik już istnieje.
+[25.11.2017 12:48:27]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:48:27]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 12:52:25]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 12:52:25]: Logowanie przebieglo pomyslnie
+[25.11.2017 12:53:25]: ŻĄDANIE 1: TAKE_FILE:9238192%AvastUI.exe%1510808937625
+[25.11.2017 12:53:25]: Rozpoczęto pobieranie pliku AvastUI.exe
+[25.11.2017 12:53:25]: Ukończono pobieranie pliku AvastUI.exe
+[25.11.2017 12:54:25]: ŻĄDANIE 1: TAKE_FILE:9238192%AvastUI.exe%1510808937625
+[25.11.2017 12:54:25]: Podany plik już istnieje.
+[25.11.2017 12:54:35]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 12:54:35]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:00:01]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:00:01]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:01:01]: ŻĄDANIE 1: TAKE_FILE:202039%konceptualny.jpg%1510496604680
+[25.11.2017 13:01:01]: Rozpoczęto pobieranie pliku konceptualny.jpg
+[25.11.2017 13:01:01]: Ukończono pobieranie pliku konceptualny.jpg
+[25.11.2017 13:02:01]: ŻĄDANIE 1: TAKE_FILE:202039%konceptualny.jpg%1510496604680
+[25.11.2017 13:02:01]: Podany plik już istnieje.
+[25.11.2017 13:02:01]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:02:01]: Rozpoczęto pobieranie pliku Zal_16_Wniosek_Zapomoga_2016.docx
+[25.11.2017 13:02:01]: Ukończono pobieranie pliku Zal_16_Wniosek_Zapomoga_2016.docx
+[25.11.2017 13:02:21]: Zamknieto gniazdo serwera
+[25.11.2017 13:02:21]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:02:21]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:08:18]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:08:18]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:08:19]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:08:22]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:08:22]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:08:35]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:35]: Rozpoczęto pobieranie pliku no.png
+[25.11.2017 13:08:35]: Ukończono pobieranie pliku no.png
+[25.11.2017 13:08:36]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:36]: Podany plik już istnieje.
+[25.11.2017 13:08:37]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:37]: Podany plik już istnieje.
+[25.11.2017 13:08:38]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:38]: Podany plik już istnieje.
+[25.11.2017 13:08:39]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:39]: Podany plik już istnieje.
+[25.11.2017 13:08:40]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:40]: Podany plik już istnieje.
+[25.11.2017 13:08:41]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:41]: Podany plik już istnieje.
+[25.11.2017 13:08:42]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:42]: Podany plik już istnieje.
+[25.11.2017 13:08:43]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:43]: Podany plik już istnieje.
+[25.11.2017 13:08:44]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:44]: Podany plik już istnieje.
+[25.11.2017 13:08:45]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:45]: Podany plik już istnieje.
+[25.11.2017 13:08:46]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:46]: Podany plik już istnieje.
+[25.11.2017 13:08:47]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:47]: Podany plik już istnieje.
+[25.11.2017 13:08:48]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:48]: Podany plik już istnieje.
+[25.11.2017 13:08:49]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:49]: Podany plik już istnieje.
+[25.11.2017 13:08:50]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:50]: Podany plik już istnieje.
+[25.11.2017 13:08:51]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:51]: Podany plik już istnieje.
+[25.11.2017 13:08:52]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:52]: Podany plik już istnieje.
+[25.11.2017 13:08:53]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:53]: Podany plik już istnieje.
+[25.11.2017 13:08:54]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:54]: Podany plik już istnieje.
+[25.11.2017 13:08:55]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:55]: Podany plik już istnieje.
+[25.11.2017 13:08:56]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:56]: Podany plik już istnieje.
+[25.11.2017 13:08:57]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:57]: Podany plik już istnieje.
+[25.11.2017 13:08:58]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:58]: Podany plik już istnieje.
+[25.11.2017 13:08:59]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:08:59]: Podany plik już istnieje.
+[25.11.2017 13:09:00]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:00]: Podany plik już istnieje.
+[25.11.2017 13:09:01]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:01]: Podany plik już istnieje.
+[25.11.2017 13:09:02]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:02]: Podany plik już istnieje.
+[25.11.2017 13:09:03]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:03]: Podany plik już istnieje.
+[25.11.2017 13:09:04]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:04]: Podany plik już istnieje.
+[25.11.2017 13:09:05]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:05]: Podany plik już istnieje.
+[25.11.2017 13:09:06]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:06]: Podany plik już istnieje.
+[25.11.2017 13:09:07]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:07]: Podany plik już istnieje.
+[25.11.2017 13:09:08]: ŻĄDANIE 1: TAKE_FILE:11216%no.png%1505760048000
+[25.11.2017 13:09:08]: Podany plik już istnieje.
+[25.11.2017 13:09:08]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:09:08]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:09:12]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:09:12]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:10:39]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:10:39]: Uzytkownik 'Admin' jest juz zalogowany
+[25.11.2017 13:10:46]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:10:46]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:10:47]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:10:47]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:10:54]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:54]: Podany plik już istnieje.
+[25.11.2017 13:10:55]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:55]: Podany plik już istnieje.
+[25.11.2017 13:10:56]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:56]: Podany plik już istnieje.
+[25.11.2017 13:10:57]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:57]: Podany plik już istnieje.
+[25.11.2017 13:10:58]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:58]: Podany plik już istnieje.
+[25.11.2017 13:10:59]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:10:59]: Podany plik już istnieje.
+[25.11.2017 13:11:00]: ŻĄDANIE 1: TAKE_FILE:22356%Zal_16_Wniosek_Zapomoga_2016.docx%1475817151413
+[25.11.2017 13:11:00]: Podany plik już istnieje.
+[25.11.2017 13:11:00]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:11:00]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:13:27]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:13:27]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:13:32]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:32]: Rozpoczęto pobieranie pliku przelew.oxps
+[25.11.2017 13:13:32]: Ukończono pobieranie pliku przelew.oxps
+[25.11.2017 13:13:33]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:33]: Podany plik już istnieje.
+[25.11.2017 13:13:34]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:34]: Podany plik już istnieje.
+[25.11.2017 13:13:35]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:35]: Podany plik już istnieje.
+[25.11.2017 13:13:36]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:36]: Podany plik już istnieje.
+[25.11.2017 13:13:37]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:37]: Podany plik już istnieje.
+[25.11.2017 13:13:38]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:38]: Podany plik już istnieje.
+[25.11.2017 13:13:39]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:39]: Podany plik już istnieje.
+[25.11.2017 13:13:40]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:40]: Podany plik już istnieje.
+[25.11.2017 13:13:41]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:13:41]: Podany plik już istnieje.
+[25.11.2017 13:13:42]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:13:42]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:13:58]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:13:58]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:14:50]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:14:50]: Rozpoczęto pobieranie pliku Brother Creative Center.url
+[25.11.2017 13:14:50]: Ukończono pobieranie pliku Brother Creative Center.url
+[25.11.2017 13:15:19]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:15:19]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:15:20]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:15:20]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:15:29]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:15:29]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:15:37]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:15:37]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:15:43]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:43]: Podany plik już istnieje.
+[25.11.2017 13:15:44]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:44]: Podany plik już istnieje.
+[25.11.2017 13:15:45]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:45]: Podany plik już istnieje.
+[25.11.2017 13:15:46]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:46]: Podany plik już istnieje.
+[25.11.2017 13:15:47]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:47]: Podany plik już istnieje.
+[25.11.2017 13:15:48]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:48]: Podany plik już istnieje.
+[25.11.2017 13:15:49]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:49]: Podany plik już istnieje.
+[25.11.2017 13:15:50]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:50]: Podany plik już istnieje.
+[25.11.2017 13:15:51]: ŻĄDANIE 1: TAKE_FILE:149%Brother Creative Center.url%1507991189802
+[25.11.2017 13:15:51]: Podany plik już istnieje.
+[25.11.2017 13:15:51]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:15:51]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:15:53]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:15:53]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:16:17]: ŻĄDANIE 1: TAKE_FILE:309221%4.pdf%1511528414147
+[25.11.2017 13:16:17]: Rozpoczęto pobieranie pliku 4.pdf
+[25.11.2017 13:16:17]: Ukończono pobieranie pliku 4.pdf
+[25.11.2017 13:16:21]: ŻĄDANIE 1: TAKE_FILE:309221%4.pdf%1511528414147
+[25.11.2017 13:16:21]: Podany plik już istnieje.
+[25.11.2017 13:16:23]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:16:23]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:18:08]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:18:08]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:18:19]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:19]: Rozpoczęto pobieranie pliku chrome.exe
+[25.11.2017 13:18:19]: Ukończono pobieranie pliku chrome.exe
+[25.11.2017 13:18:20]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:20]: Podany plik już istnieje.
+[25.11.2017 13:18:21]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:21]: Podany plik już istnieje.
+[25.11.2017 13:18:22]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:22]: Podany plik już istnieje.
+[25.11.2017 13:18:23]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:23]: Podany plik już istnieje.
+[25.11.2017 13:18:24]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:24]: Podany plik już istnieje.
+[25.11.2017 13:18:25]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:25]: Podany plik już istnieje.
+[25.11.2017 13:18:26]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:26]: Podany plik już istnieje.
+[25.11.2017 13:18:27]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:27]: Podany plik już istnieje.
+[25.11.2017 13:18:28]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:28]: Podany plik już istnieje.
+[25.11.2017 13:18:29]: ŻĄDANIE 1: TAKE_FILE:1556312%chrome.exe%1510307854031
+[25.11.2017 13:18:29]: Podany plik już istnieje.
+[25.11.2017 13:18:30]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:18:30]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:18:31]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:18:31]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:18:55]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:18:55]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:19:54]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:19:54]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:19:59]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:19:59]: Rozpoczęto pobieranie pliku DTLauncher.exe
+[25.11.2017 13:19:59]: Ukończono pobieranie pliku DTLauncher.exe
+[25.11.2017 13:20:00]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:00]: Podany plik już istnieje.
+[25.11.2017 13:20:01]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:01]: Podany plik już istnieje.
+[25.11.2017 13:20:02]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:02]: Podany plik już istnieje.
+[25.11.2017 13:20:03]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:03]: Podany plik już istnieje.
+[25.11.2017 13:20:04]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:04]: Podany plik już istnieje.
+[25.11.2017 13:20:05]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:05]: Podany plik już istnieje.
+[25.11.2017 13:20:06]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:06]: Podany plik już istnieje.
+[25.11.2017 13:20:07]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:07]: Podany plik już istnieje.
+[25.11.2017 13:20:08]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:08]: Podany plik już istnieje.
+[25.11.2017 13:20:09]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:09]: Podany plik już istnieje.
+[25.11.2017 13:20:10]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:10]: Podany plik już istnieje.
+[25.11.2017 13:20:11]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:11]: Podany plik już istnieje.
+[25.11.2017 13:20:12]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:12]: Podany plik już istnieje.
+[25.11.2017 13:20:13]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:13]: Podany plik już istnieje.
+[25.11.2017 13:20:14]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:14]: Podany plik już istnieje.
+[25.11.2017 13:20:15]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:15]: Podany plik już istnieje.
+[25.11.2017 13:20:16]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:16]: Podany plik już istnieje.
+[25.11.2017 13:20:17]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:17]: Podany plik już istnieje.
+[25.11.2017 13:20:18]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:18]: Podany plik już istnieje.
+[25.11.2017 13:20:19]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:19]: Podany plik już istnieje.
+[25.11.2017 13:20:20]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:20]: Podany plik już istnieje.
+[25.11.2017 13:20:21]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:21]: Podany plik już istnieje.
+[25.11.2017 13:20:22]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:22]: Podany plik już istnieje.
+[25.11.2017 13:20:23]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:23]: Podany plik już istnieje.
+[25.11.2017 13:20:24]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:24]: Podany plik już istnieje.
+[25.11.2017 13:20:25]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:25]: Podany plik już istnieje.
+[25.11.2017 13:20:26]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:26]: Podany plik już istnieje.
+[25.11.2017 13:20:27]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:27]: Podany plik już istnieje.
+[25.11.2017 13:20:28]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:28]: Podany plik już istnieje.
+[25.11.2017 13:20:29]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:29]: Podany plik już istnieje.
+[25.11.2017 13:20:30]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:30]: Podany plik już istnieje.
+[25.11.2017 13:20:31]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:31]: Podany plik już istnieje.
+[25.11.2017 13:20:32]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:32]: Podany plik już istnieje.
+[25.11.2017 13:20:33]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:33]: Podany plik już istnieje.
+[25.11.2017 13:20:34]: ŻĄDANIE 1: TAKE_FILE:3148992%DTLauncher.exe%1502706614000
+[25.11.2017 13:20:34]: Podany plik już istnieje.
+[25.11.2017 13:20:34]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:20:34]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:20:36]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:20:36]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:20:53]: Zamknieto gniazdo serwera
+[25.11.2017 13:20:53]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:20:53]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:20:59]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:21:00]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:21:00]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:21:51]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:21:51]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:22:52]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:52]: Podany plik już istnieje.
+[25.11.2017 13:22:53]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:53]: Podany plik już istnieje.
+[25.11.2017 13:22:54]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:54]: Podany plik już istnieje.
+[25.11.2017 13:22:55]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:55]: Podany plik już istnieje.
+[25.11.2017 13:22:56]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:56]: Podany plik już istnieje.
+[25.11.2017 13:22:57]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:57]: Podany plik już istnieje.
+[25.11.2017 13:22:58]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:58]: Podany plik już istnieje.
+[25.11.2017 13:22:59]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:22:59]: Podany plik już istnieje.
+[25.11.2017 13:23:00]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:00]: Podany plik już istnieje.
+[25.11.2017 13:23:01]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:01]: Podany plik już istnieje.
+[25.11.2017 13:23:02]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:02]: Podany plik już istnieje.
+[25.11.2017 13:23:03]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:03]: Podany plik już istnieje.
+[25.11.2017 13:23:04]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:04]: Podany plik już istnieje.
+[25.11.2017 13:23:05]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:05]: Podany plik już istnieje.
+[25.11.2017 13:23:06]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:06]: Podany plik już istnieje.
+[25.11.2017 13:23:07]: ŻĄDANIE 1: TAKE_FILE:235029%przelew.oxps%1428900368000
+[25.11.2017 13:23:07]: Podany plik już istnieje.
+[25.11.2017 13:23:08]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:23:08]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:23:10]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:23:10]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:23:23]: Zamknieto gniazdo serwera
+[25.11.2017 13:23:23]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:23:23]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:25:52]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:25:52]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:25:53]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:26:21]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:26:21]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:28:21]: ŻĄDANIE 1: TAKE_FILE:132408%praca domowa.png%1510941445996
+[25.11.2017 13:28:21]: Rozpoczęto pobieranie pliku praca domowa.png
+[25.11.2017 13:28:21]: Ukończono pobieranie pliku praca domowa.png
+[25.11.2017 13:29:25]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:29:25]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:29:27]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:29:27]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:30:19]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:30:19]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:30:43]: Zamknieto gniazdo serwera
+[25.11.2017 13:30:43]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:30:43]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:34:52]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:34:53]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:34:53]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:35:08]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:35:08]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:35:16]: ŻĄDANIE 1: TAKE_FILE:1121454%koloprzyk1.pdf%1434099398000
+[25.11.2017 13:35:16]: Rozpoczęto pobieranie pliku koloprzyk1.pdf
+[25.11.2017 13:35:16]: Ukończono pobieranie pliku koloprzyk1.pdf
+[25.11.2017 13:35:18]: ŻĄDANIE 1: TAKE_FILE:1121454%koloprzyk1.pdf%1434099398000
+[25.11.2017 13:35:18]: Podany plik już istnieje.
+[25.11.2017 13:35:50]: ŻĄDANIE 1: SHOW_FILES:0
+[25.11.2017 13:35:52]: ŻĄDANIE 1: DELETE_FILES:koloprzyk1.pdf
+[25.11.2017 13:35:52]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[25.11.2017 13:35:52]: Ukończono usuwanie plików użytkownika o ID: 1
+[25.11.2017 13:35:55]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:35:55]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:35:57]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:35:57]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:37:01]: ŻĄDANIE 1: TAKE_FILE:1121454%koloprzyk1.pdf%1434099398000
+[25.11.2017 13:37:01]: Rozpoczęto pobieranie pliku koloprzyk1.pdf
+[25.11.2017 13:37:01]: Ukończono pobieranie pliku koloprzyk1.pdf
+[25.11.2017 13:37:01]: ŻĄDANIE 1: TAKE_FILE:9%testowy2.txt%1511102273194
+[25.11.2017 13:37:01]: Rozpoczęto pobieranie pliku testowy2.txt
+[25.11.2017 13:37:01]: Ukończono pobieranie pliku testowy2.txt
+[25.11.2017 13:37:02]: ŻĄDANIE 1: SHOW_FILES:0
+[25.11.2017 13:37:04]: ŻĄDANIE 1: TAKE_FILE:1121454%koloprzyk1.pdf%1434099398000
+[25.11.2017 13:37:04]: Podany plik już istnieje.
+[25.11.2017 13:37:04]: ŻĄDANIE 1: TAKE_FILE:9%testowy2.txt%1511102273194
+[25.11.2017 13:37:04]: Podany plik już istnieje.
+[25.11.2017 13:37:14]: ŻĄDANIE 1: TAKE_FILE:1121454%koloprzyk1.pdf%1434099398000
+[25.11.2017 13:37:14]: Podany plik już istnieje.
+[25.11.2017 13:37:14]: ŻĄDANIE 1: TAKE_FILE:9%testowy2.txt%1511102273194
+[25.11.2017 13:37:14]: Podany plik już istnieje.
+[25.11.2017 13:37:41]: Zresetowano połączenie użytkownika o ID: 1
+[25.11.2017 13:37:57]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:37:57]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:38:11]: ŻĄDANIE 1: TAKE_FILE:22%testowy2.txt%1511613471239
+[25.11.2017 13:38:15]: ŻĄDANIE 1: rfffbsb
+[25.11.2017 13:38:15]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 13:39:02]: Zamknieto gniazdo serwera
+[25.11.2017 13:39:02]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:39:02]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:40:28]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:40:28]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:40:29]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:40:30]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:40:30]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:40:38]: ŻĄDANIE 1: TAKE_FILE:22%testowy2.txt%1511613471239
+[25.11.2017 13:40:40]: ŻĄDANIE 1: rfffbsb
+[25.11.2017 13:40:40]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 13:41:53]: Zamknieto gniazdo serwera
+[25.11.2017 13:41:53]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:41:53]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:42:20]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:42:20]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:42:21]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:42:21]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:42:21]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:42:32]: ŻĄDANIE 1: TAKE_FILE:22%testowy2.txt%1511613471239
+[25.11.2017 13:42:33]: Rozpoczęto pobieranie pliku testowy2.txt
+[25.11.2017 13:42:33]: Ukończono pobieranie pliku testowy2.txt
+[25.11.2017 13:43:31]: ŻĄDANIE 1: LOGOUT
+[25.11.2017 13:43:31]: Użytkownik o ID: 1 został wylogowany
+[25.11.2017 13:43:37]: Zamknieto gniazdo serwera
+[25.11.2017 13:43:37]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:43:37]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:43:40]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:43:40]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:43:41]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:44:19]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:44:19]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:44:30]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:44:32]: ŻĄDANIE 1: rfffbsb
+[25.11.2017 13:44:32]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 13:46:14]: Zamknieto gniazdo serwera
+[25.11.2017 13:46:14]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:46:14]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:46:17]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:46:17]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:46:18]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:46:24]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:46:24]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:46:34]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:46:39]: ŻĄDANIE 1: rfffbsb
+[25.11.2017 13:46:39]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 13:47:42]: Zamknieto gniazdo serwera
+[25.11.2017 13:47:42]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:47:42]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:47:45]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:47:45]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:47:46]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:47:54]: Zamknieto gniazdo serwera
+[25.11.2017 13:47:54]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:47:54]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:48:14]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:48:14]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:48:14]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:48:22]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:48:22]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:48:30]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:49:25]: Zresetowano połączenie użytkownika o ID: 1
+[25.11.2017 13:49:28]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:49:28]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:49:28]: Zamknieto gniazdo serwera
+[25.11.2017 13:49:53]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:49:53]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:49:53]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:50:06]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:50:06]: Zamknieto gniazdo serwera
+[25.11.2017 13:50:06]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:50:19]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:50:19]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:50:20]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:50:21]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:50:21]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:50:27]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:50:57]: ŻĄDANIE 1: rfffbsb
+[25.11.2017 13:50:57]: Nastąpił niespodziewany błąd: java.lang.ArrayIndexOutOfBoundsException: 1
+[25.11.2017 13:51:24]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:51:24]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[25.11.2017 13:51:24]: Zamknieto gniazdo serwera
+[25.11.2017 13:52:40]: ------------------------------------>START APLIKACJI<-------------------------------------
+[25.11.2017 13:52:40]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[25.11.2017 13:52:40]: Uruchomiono serwer, numer portu: 49351
+[25.11.2017 13:52:41]: Próba logowania klienta: LOGIN:Admin%123
+[25.11.2017 13:52:41]: Logowanie przebieglo pomyslnie
+[25.11.2017 13:52:47]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:52:51]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:52:54]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:52:55]: Rozpoczęto pobieranie pliku testowy2.txt
+[25.11.2017 13:52:55]: Ukończono pobieranie pliku testowy2.txt
+[25.11.2017 13:52:57]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:52:57]: Podany plik już istnieje.
+[25.11.2017 13:52:58]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[25.11.2017 13:52:58]: Podany plik już istnieje.
+[25.11.2017 13:53:03]: ŻĄDANIE 1: SHOW_FILES:0
+[25.11.2017 13:53:52]: Zamknieto gniazdo serwera
+[25.11.2017 13:53:52]: Serwer został pomyślnie wyłączony
+[25.11.2017 13:53:52]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-25 20:08:11]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-25 20:08:12]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-25 20:08:12]: Uruchomiono serwer, numer portu: 49351
+[2017-11-25 20:08:25]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:08:25]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:08:33]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 20:08:33]: Rozpoczęto pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:08:37]: Ukończono pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:10:27]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 20:10:27]: Podany plik już istnieje.
+[2017-11-25 20:10:29]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-25 20:10:31]: ŻĄDANIE 1: DELETE_FILES:testowy.txt
+[2017-11-25 20:10:31]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:31]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:32]: ŻĄDANIE 1: DELETE_FILES:server_logs.txt
+[2017-11-25 20:10:32]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:32]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:34]: ŻĄDANIE 1: DELETE_FILES:testowy 3.txt
+[2017-11-25 20:10:34]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:34]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:36]: ŻĄDANIE 1: DELETE_FILES:testowy2.txt
+[2017-11-25 20:10:36]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:36]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:10:37]: ŻĄDANIE 1: GIVE_FILE:Lista_pochodnych_i_pierwotnych.pdf
+[2017-11-25 20:10:37]: Rozpoczęto wysyłanie pliku Lista_pochodnych_i_pierwotnych.pdf
+[2017-11-25 20:10:37]: Ukończono wysyłanie pliku Lista_pochodnych_i_pierwotnych.pdf
+[2017-11-25 20:13:30]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:13:35]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:13:35]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:13:43]: ŻĄDANIE 1: TAKE_FILE:419661647%Watch Westworld Season 1 Episode 1.mp4%1504023964245
+[2017-11-25 20:13:43]: Rozpoczęto pobieranie pliku Watch Westworld Season 1 Episode 1.mp4
+[2017-11-25 20:13:48]: Ukończono pobieranie pliku Watch Westworld Season 1 Episode 1.mp4
+[2017-11-25 20:13:48]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-25 20:14:05]: ŻĄDANIE 1: GIVE_FILE:Watch Westworld Season 1 Episode 1.mp4
+[2017-11-25 20:14:05]: Rozpoczęto wysyłanie pliku Watch Westworld Season 1 Episode 1.mp4
+[2017-11-25 20:14:06]: Ukończono wysyłanie pliku Watch Westworld Season 1 Episode 1.mp4
+[2017-11-25 20:14:38]: ŻĄDANIE 1: DELETE_FILES:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:14:38]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:14:38]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-25 20:15:43]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:15:50]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:15:50]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:15:53]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-25 20:17:20]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:17:20]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:17:22]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:17:22]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:17:24]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:18:33]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:18:33]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:19:04]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:19:04]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:19:08]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:19:12]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:19:12]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:19:14]: ŻĄDANIE 1: LOGOUT
+[2017-11-25 20:19:14]: Użytkownik o ID: 1 został wylogowany
+[2017-11-25 20:19:23]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:19:23]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:23:17]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:23:17]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:23:39]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:23:51]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:23:51]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:23:58]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 20:23:58]: Rozpoczęto pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:24:01]: Ukończono pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:24:10]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 20:24:10]: Podany plik już istnieje.
+[2017-11-25 20:24:10]: ŻĄDANIE 1: TAKE_FILE:425538073%Watch The Tag-Along Full Movie Online Free 123Movies.mp4%1503950526663
+[2017-11-25 20:24:10]: Rozpoczęto pobieranie pliku Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-25 20:24:22]: Ukończono pobieranie pliku Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-25 20:24:34]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:24:34]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:24:38]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:24:43]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:24:43]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:25:57]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:25:57]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:26:29]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-25 20:26:29]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:26:38]: ŻĄDANIE 13: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 20:26:38]: Rozpoczęto pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:26:42]: Ukończono pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 20:26:42]: ŻĄDANIE 13: SHOW_FILES:0
+[2017-11-25 20:31:36]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-25 20:31:36]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 20:35:22]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:35:22]: Logowanie przebieglo pomyslnie
+[2017-11-25 20:36:17]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 20:36:17]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-25 20:36:26]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-25 20:36:26]: Logowanie przebieglo pomyslnie
+[2017-11-25 23:48:39]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 23:48:39]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-25 23:48:48]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 23:48:48]: Logowanie przebieglo pomyslnie
+[2017-11-25 23:49:12]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 23:49:18]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 23:49:18]: Logowanie przebieglo pomyslnie
+[2017-11-25 23:52:40]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-25 23:52:45]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-25 23:52:45]: Logowanie przebieglo pomyslnie
+[2017-11-25 23:56:21]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-25 23:56:21]: Podany plik już istnieje.
+[2017-11-25 23:56:21]: ŻĄDANIE 1: TAKE_FILE:2630%AUTHORS%1502052240000
+[2017-11-25 23:56:21]: Rozpoczęto pobieranie pliku AUTHORS
+[2017-11-25 23:56:21]: Ukończono pobieranie pliku AUTHORS
+[2017-11-25 23:56:26]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-25 23:56:29]: ŻĄDANIE 1: GIVE_FILE:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 23:56:29]: Rozpoczęto wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-25 23:56:34]: Ukończono wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 00:02:21]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 00:02:27]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:02:27]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:08:53]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:08:53]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:09:05]: Próba logowania klienta: LOGIN:Mateusz%ubiemacka1
+[2017-11-26 00:09:06]: Nieprawidłowy login lub hasło
+[2017-11-26 00:09:13]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 00:09:13]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:09:50]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 00:09:50]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 00:09:55]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:09:55]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:10:16]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 00:10:24]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:10:24]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:11:17]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:11:17]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:11:19]: Próba logowania klienta: LOGIN:Admin%123das
+[2017-11-26 00:11:20]: Nieprawidłowy login lub hasło
+[2017-11-26 00:11:34]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:11:34]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:19:03]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:19:03]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:19:17]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:19:17]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:19:34]: Zamknieto gniazdo serwera
+[2017-11-26 00:19:34]: Serwer został pomyślnie wyłączony
+[2017-11-26 00:19:34]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-26 00:19:44]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 00:19:44]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 00:19:46]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 00:33:16]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:33:16]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:39:13]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 00:39:22]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:39:22]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:39:45]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:39:45]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 00:39:59]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 00:39:59]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:40:10]: ŻĄDANIE 13: LOGOUT
+[2017-11-26 00:40:10]: Użytkownik o ID: 13 został wylogowany
+[2017-11-26 00:40:21]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 00:46:08]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 00:46:08]: Logowanie przebieglo pomyslnie
+[2017-11-26 00:46:30]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 02:55:34]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 02:55:34]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 02:55:42]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 02:55:42]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 02:55:46]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 02:55:52]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 02:55:52]: Logowanie przebieglo pomyslnie
+[2017-11-26 02:57:07]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 02:57:13]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 02:57:13]: Logowanie przebieglo pomyslnie
+[2017-11-26 03:01:54]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 03:02:00]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 03:02:00]: Logowanie przebieglo pomyslnie
+[2017-11-26 03:02:55]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 03:03:02]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 03:03:02]: Logowanie przebieglo pomyslnie
+[2017-11-26 03:08:45]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 03:09:05]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 03:09:05]: Logowanie przebieglo pomyslnie
+[2017-11-26 03:12:38]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 03:12:38]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 03:12:48]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 03:12:48]: Logowanie przebieglo pomyslnie
+[2017-11-26 03:13:23]: ŻĄDANIE 13: TAKE_FILE:248%Podciągniecia.txt%1510666236235
+[2017-11-26 03:13:23]: Rozpoczęto pobieranie pliku Podciągniecia.txt
+[2017-11-26 03:13:23]: Ukończono pobieranie pliku Podciągniecia.txt
+[2017-11-26 03:13:23]: ŻĄDANIE 13: TAKE_FILE:77987%C01_odp.pdf%1475913460000
+[2017-11-26 03:13:23]: Rozpoczęto pobieranie pliku C01_odp.pdf
+[2017-11-26 03:13:23]: Ukończono pobieranie pliku C01_odp.pdf
+[2017-11-26 03:13:27]: ŻĄDANIE 13: SHOW_FILES:0
+[2017-11-26 03:27:37]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 03:27:37]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 13:47:56]: Zamknieto gniazdo serwera
+[2017-11-26 13:47:56]: Serwer został pomyślnie wyłączony
+[2017-11-26 13:47:56]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-26 13:57:19]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 13:57:20]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 13:57:20]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 13:57:34]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 13:57:34]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:00:30]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:00:30]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:01:21]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:01:21]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:01:29]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 14:01:29]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:01:47]: ŻĄDANIE 13: TAKE_FILE:425538073%Watch The Tag-Along Full Movie Online Free 123Movies.mp4%1503950526663
+[2017-11-26 14:01:47]: Rozpoczęto pobieranie pliku Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-26 14:01:52]: Ukończono pobieranie pliku Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-26 14:01:52]: ŻĄDANIE 13: TAKE_FILE:147108%We.Are.Legion.2012.DVDRip.x264-NOGRP.srt%1504079805741
+[2017-11-26 14:01:52]: Rozpoczęto pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 14:01:52]: Ukończono pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 14:01:52]: ŻĄDANIE 13: TAKE_FILE:105680%PanApi.dll%1408367628000
+[2017-11-26 14:01:52]: Rozpoczęto pobieranie pliku PanApi.dll
+[2017-11-26 14:01:52]: Ukończono pobieranie pliku PanApi.dll
+[2017-11-26 14:02:05]: ŻĄDANIE 13: SHOW_FILES:0
+[2017-11-26 14:02:09]: ŻĄDANIE 13: DELETE_FILES:Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-26 14:02:09]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:09]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:09]: ŻĄDANIE 13: DELETE_FILES:Podciągniecia.txt
+[2017-11-26 14:02:09]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:09]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: ŻĄDANIE 13: DELETE_FILES:PanApi.dll
+[2017-11-26 14:02:10]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: ŻĄDANIE 13: DELETE_FILES:C01_odp.pdf
+[2017-11-26 14:02:10]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: ŻĄDANIE 13: DELETE_FILES:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 14:02:10]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: ŻĄDANIE 13: DELETE_FILES:We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 14:02:10]: Rozpoczęto usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:02:10]: Ukończono usuwanie plików użytkownika o ID: 13
+[2017-11-26 14:05:33]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:05:33]: Rozpoczęto pobieranie pliku TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4
+[2017-11-26 14:05:34]: Ukończono pobieranie pliku TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4
+[2017-11-26 14:05:34]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:05:34]: Rozpoczęto pobieranie pliku TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4
+[2017-11-26 14:05:35]: Ukończono pobieranie pliku TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4
+[2017-11-26 14:05:58]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:05:58]: Podany plik już istnieje.
+[2017-11-26 14:05:58]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:05:58]: Podany plik już istnieje.
+[2017-11-26 14:06:00]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:06:00]: Podany plik już istnieje.
+[2017-11-26 14:06:00]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:06:00]: Podany plik już istnieje.
+[2017-11-26 14:06:00]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:06:00]: Podany plik już istnieje.
+[2017-11-26 14:06:00]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:06:00]: Podany plik już istnieje.
+[2017-11-26 14:06:01]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:06:01]: Podany plik już istnieje.
+[2017-11-26 14:06:01]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:06:01]: Podany plik już istnieje.
+[2017-11-26 14:06:01]: ŻĄDANIE 13: TAKE_FILE:117228193%TVZion - Watch MASH season 3 episode 9 S03E09 online free.mp4%1502796127017
+[2017-11-26 14:06:01]: Podany plik już istnieje.
+[2017-11-26 14:06:01]: ŻĄDANIE 13: TAKE_FILE:122251577%TVZion - Watch MASH season 2 episode 12 S02E12 online free.mp4%1502749485107
+[2017-11-26 14:06:01]: Podany plik już istnieje.
+[2017-11-26 14:06:12]: ŻĄDANIE 13: TAKE_FILE:118384434%TVZion - Watch MASH season 2 episode 13 S02E13 online free.mp4%1502749378574
+[2017-11-26 14:06:12]: Rozpoczęto pobieranie pliku TVZion - Watch MASH season 2 episode 13 S02E13 online free.mp4
+[2017-11-26 14:06:13]: Ukończono pobieranie pliku TVZion - Watch MASH season 2 episode 13 S02E13 online free.mp4
+[2017-11-26 14:07:20]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:07:20]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:07:40]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:07:40]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 14:07:42]: Zamknieto gniazdo serwera
+[2017-11-26 14:07:42]: Serwer został pomyślnie wyłączony
+[2017-11-26 14:07:42]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-26 14:08:44]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 14:08:44]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 14:08:45]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 14:08:55]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:08:55]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:09:11]: ŻĄDANIE 1: TAKE_FILE:4011416%comix3.xcf%1503648953149
+[2017-11-26 14:09:11]: Rozpoczęto pobieranie pliku comix3.xcf
+[2017-11-26 14:09:11]: Ukończono pobieranie pliku comix3.xcf
+[2017-11-26 14:09:14]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 14:10:53]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:11:02]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:11:02]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:11:13]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 14:11:13]: Podany plik już istnieje.
+[2017-11-26 14:20:49]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:20:49]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:20:59]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:21:04]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:21:04]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:22:05]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:22:11]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:22:11]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:26:03]: ŻĄDANIE 1: TAKE_FILE:4011416%comix3.xcf%1503648953149
+[2017-11-26 14:26:03]: Podany plik już istnieje.
+[2017-11-26 14:27:28]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 14:27:28]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 14:27:40]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:27:40]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:27:54]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:27:54]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:28:02]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:30:21]: Zamknieto gniazdo serwera
+[2017-11-26 14:30:21]: Serwer został pomyślnie wyłączony
+[2017-11-26 14:30:21]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-26 14:30:25]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 14:30:25]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 14:30:25]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 14:30:33]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:30:33]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:39:20]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:43:10]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:43:10]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:44:41]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:45:08]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:45:08]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:45:59]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:46:04]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:46:04]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:46:57]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:47:01]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:47:01]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:47:10]: ŻĄDANIE 1: TAKE_FILE:510%Serwer.iml%1511314584492
+[2017-11-26 14:47:10]: Rozpoczęto pobieranie pliku Serwer.iml
+[2017-11-26 14:47:10]: Ukończono pobieranie pliku Serwer.iml
+[2017-11-26 14:47:22]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:47:22]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:47:36]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:47:41]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:47:41]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:47:52]: ŻĄDANIE 1: TAKE_FILE:35105%MASH [2x18] - Operation Noselift.srt%1502711181148
+[2017-11-26 14:47:52]: Rozpoczęto pobieranie pliku MASH [2x18] - Operation Noselift.srt
+[2017-11-26 14:47:52]: Ukończono pobieranie pliku MASH [2x18] - Operation Noselift.srt
+[2017-11-26 14:48:03]: ŻĄDANIE 1: TAKE_FILE:35105%MASH [2x18] - Operation Noselift.srt%1502711181148
+[2017-11-26 14:48:03]: Podany plik już istnieje.
+[2017-11-26 14:48:04]: ŻĄDANIE 1: TAKE_FILE:35105%MASH [2x18] - Operation Noselift.srt%1502711181148
+[2017-11-26 14:48:04]: Podany plik już istnieje.
+[2017-11-26 14:48:29]: ŻĄDANIE 1: TAKE_FILE:250140126%Watch Westworld Season 1 Episode 1 Online Free - Watch Serie.mp4%1504023646252
+[2017-11-26 14:48:29]: Rozpoczęto pobieranie pliku Watch Westworld Season 1 Episode 1 Online Free - Watch Serie.mp4
+[2017-11-26 14:48:32]: Ukończono pobieranie pliku Watch Westworld Season 1 Episode 1 Online Free - Watch Serie.mp4
+[2017-11-26 14:50:26]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:50:30]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:50:30]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:50:38]: ŻĄDANIE 1: TAKE_FILE:425538073%Watch The Tag-Along Full Movie Online Free 123Movies.mp4%1503950526663
+[2017-11-26 14:50:38]: Podany plik już istnieje.
+[2017-11-26 14:51:13]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:51:13]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:51:24]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 14:51:24]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:52:11]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:52:11]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 14:52:15]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:52:15]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 14:52:19]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:52:19]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:52:25]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 14:52:25]: Podany plik już istnieje.
+[2017-11-26 14:52:54]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 14:52:59]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 14:52:59]: Logowanie przebieglo pomyslnie
+[2017-11-26 14:53:06]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 14:53:06]: Podany plik już istnieje.
+[2017-11-26 15:00:14]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:00:22]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:00:22]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:00:35]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:00:55]: ŻĄDANIE 1: GIVE_FILE:MASH [2x18] - Operation Noselift.srt
+[2017-11-26 15:00:55]: Rozpoczęto wysyłanie pliku MASH [2x18] - Operation Noselift.srt
+[2017-11-26 15:00:55]: Ukończono wysyłanie pliku MASH [2x18] - Operation Noselift.srt
+[2017-11-26 15:01:37]: ŻĄDANIE 1: TAKE_FILE:10%Nowy dokument tekstowy.txt%1511704884035
+[2017-11-26 15:01:37]: Rozpoczęto pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:01:37]: Ukończono pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:01:38]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:02:38]: ŻĄDANIE 1: TAKE_FILE:10%Nowy dokument tekstowy.txt%1511704934368
+[2017-11-26 15:02:44]: Rozpoczęto pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:02:44]: Ukończono pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:05:22]: ŻĄDANIE 1: TAKE_FILE:10%Nowy dokument tekstowy.txt%1511704934368
+[2017-11-26 15:05:22]: Podany plik już istnieje.
+[2017-11-26 15:06:22]: ŻĄDANIE 1: TAKE_FILE:10%Nowy dokument tekstowy.txt%1511705141825
+[2017-11-26 15:06:55]: ŻĄDANIE 1: dziedsobrtTAKE_FILE:10%Nowy dokument tekstowy.txt%1511705141825
+[2017-11-26 15:08:27]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:08:32]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:08:32]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:08:53]: Zamknieto gniazdo serwera
+[2017-11-26 15:08:53]: Serwer został pomyślnie wyłączony
+[2017-11-26 15:08:53]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[2017-11-26 15:10:25]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 15:10:25]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 15:10:25]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 15:10:31]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:10:31]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:11:15]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:12:31]: ŻĄDANIE 1: TAKE_FILE:13%Nowy dokument tekstowy.txt%1511705321110
+[2017-11-26 15:12:41]: ŻĄDANIE 1: TAKE_FILE:13%Nowy dokument tekstowy.txt%1511705321110
+[2017-11-26 15:12:45]: Rozpoczęto pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:12:45]: Ukończono pobieranie pliku Nowy dokument tekstowy.txt
+[2017-11-26 15:13:48]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:13:48]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 15:13:53]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:13:57]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:13:57]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:14:06]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:16:57]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 15:16:57]: Podany plik już istnieje.
+[2017-11-26 15:16:57]: ŻĄDANIE 1: TAKE_FILE:425538073%Watch The Tag-Along Full Movie Online Free 123Movies.mp4%1503950526663
+[2017-11-26 15:16:57]: Podany plik już istnieje.
+[2017-11-26 15:16:57]: ŻĄDANIE 1: TAKE_FILE:53406%system.log%1279191342000
+[2017-11-26 15:16:57]: Rozpoczęto pobieranie pliku system.log
+[2017-11-26 15:16:57]: Ukończono pobieranie pliku system.log
+[2017-11-26 15:16:57]: ŻĄDANIE 1: TAKE_FILE:43665%Serwer.zip%1509818689649
+[2017-11-26 15:16:57]: Rozpoczęto pobieranie pliku Serwer.zip
+[2017-11-26 15:16:57]: Ukończono pobieranie pliku Serwer.zip
+[2017-11-26 15:17:28]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:24:35]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:24:38]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:24:38]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:25:53]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:25:53]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 15:25:56]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:28:26]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:28:26]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:28:40]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:29:53]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 15:29:53]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 15:29:56]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:29:56]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:31:03]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:31:09]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:31:09]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:31:24]: ŻĄDANIE 1: TAKE_FILE:48763%Westworld - 1x02 - Chestnut.WebRip.1080p.HBO.monkee.en.srt%1504028249152
+[2017-11-26 15:31:24]: Rozpoczęto pobieranie pliku Westworld - 1x02 - Chestnut.WebRip.1080p.HBO.monkee.en.srt
+[2017-11-26 15:31:24]: Ukończono pobieranie pliku Westworld - 1x02 - Chestnut.WebRip.1080p.HBO.monkee.en.srt
+[2017-11-26 15:32:17]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 15:32:17]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 15:32:19]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:32:19]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:33:06]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:33:26]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 15:33:26]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:33:41]: ŻĄDANIE 13: TAKE_FILE:3094778547%Total War Rome II.7z%1509907218825
+[2017-11-26 15:33:41]: Rozpoczęto pobieranie pliku Total War Rome II.7z
+[2017-11-26 15:33:54]: ŻĄDANIE 1: TAKE_FILE:117118003%TVZion - Watch MASH season 4 episode 5 S04E05 online free.mp4%1503006837025
+[2017-11-26 15:33:54]: Rozpoczęto pobieranie pliku TVZion - Watch MASH season 4 episode 5 S04E05 online free.mp4
+[2017-11-26 15:34:04]: Ukończono pobieranie pliku TVZion - Watch MASH season 4 episode 5 S04E05 online free.mp4
+[2017-11-26 15:35:06]: Ukończono pobieranie pliku Total War Rome II.7z
+[2017-11-26 15:36:30]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 15:36:30]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:36:48]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:36:48]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:37:04]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:37:19]: ŻĄDANIE 1: TAKE_FILE:3094778547%Total War Rome II.7z%1509907218825
+[2017-11-26 15:37:19]: Rozpoczęto pobieranie pliku Total War Rome II.7z
+[2017-11-26 15:38:25]: Ukończono pobieranie pliku Total War Rome II.7z
+[2017-11-26 15:39:05]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 15:39:05]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 15:39:44]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:39:44]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:39:52]: ŻĄDANIE 1: TAKE_FILE:147108%We.Are.Legion.2012.DVDRip.x264-NOGRP.srt%1504079805741
+[2017-11-26 15:39:52]: Rozpoczęto pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 15:39:52]: Ukończono pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 15:39:55]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 15:40:09]: ŻĄDANIE 1: DELETE_FILES:Serwer.zip
+[2017-11-26 15:40:09]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: ŻĄDANIE 1: DELETE_FILES:Serwer.iml
+[2017-11-26 15:40:09]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: ŻĄDANIE 1: DELETE_FILES:Nowy dokument tekstowy.txt
+[2017-11-26 15:40:09]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: ŻĄDANIE 1: DELETE_FILES:MASH [2x18] - Operation Noselift.srt
+[2017-11-26 15:40:09]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:09]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:Lista_pochodnych_i_pierwotnych.pdf
+[2017-11-26 15:40:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:comix3.xcf
+[2017-11-26 15:40:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:AUTHORS
+[2017-11-26 15:40:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:system.log
+[2017-11-26 15:40:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:Total War Rome II.7z
+[2017-11-26 15:40:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:10]: ŻĄDANIE 1: DELETE_FILES:TVZion - Watch MASH season 4 episode 5 S04E05 online free.mp4
+[2017-11-26 15:40:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: ŻĄDANIE 1: DELETE_FILES:Watch The Tag-Along Full Movie Online Free 123Movies.mp4
+[2017-11-26 15:40:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: ŻĄDANIE 1: DELETE_FILES:Watch Westworld Season 1 Episode 1 Online Free - Watch Serie.mp4
+[2017-11-26 15:40:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: ŻĄDANIE 1: DELETE_FILES:Watch Westworld Season 1 Episode 1.mp4
+[2017-11-26 15:40:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: ŻĄDANIE 1: DELETE_FILES:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 15:40:12]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: ŻĄDANIE 1: DELETE_FILES:We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 15:40:12]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: ŻĄDANIE 1: DELETE_FILES:Westworld - 1x02 - Chestnut.WebRip.1080p.HBO.monkee.en.srt
+[2017-11-26 15:40:12]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:12]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 15:40:15]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 15:40:15]: Rozpoczęto pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 15:40:18]: Ukończono pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 15:41:08]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:41:08]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 15:41:18]: Próba logowania klienta: LOGIN:Mateusz%lubiemacka1
+[2017-11-26 15:41:18]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:55:28]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:55:28]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 15:55:33]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:55:33]: Zresetowano połączenie użytkownika o ID: 13
+[2017-11-26 15:55:39]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:55:39]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:58:43]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 15:58:50]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:58:50]: Logowanie przebieglo pomyslnie
+[2017-11-26 15:59:55]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 15:59:55]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 15:59:59]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:00:06]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:00:06]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:00:42]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:00:48]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:00:48]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:00:57]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 16:00:57]: Podany plik już istnieje.
+[2017-11-26 16:01:22]: ŻĄDANIE 1: TAKE_FILE:3094778547%Total War Rome II.7z%1509907218825
+[2017-11-26 16:01:22]: Rozpoczęto pobieranie pliku Total War Rome II.7z
+[2017-11-26 16:02:33]: Ukończono pobieranie pliku Total War Rome II.7z
+[2017-11-26 16:02:37]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:08:39]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:08:39]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:08:42]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:12:02]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:12:02]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:12:29]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 16:12:29]: Podany plik już istnieje.
+[2017-11-26 16:12:31]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:12:34]: ŻĄDANIE 1: DELETE_FILES:Total War Rome II.7z
+[2017-11-26 16:12:34]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 16:12:34]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 16:13:22]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:24:26]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:24:26]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:25:05]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:25:12]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:25:12]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:29:39]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:29:39]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:29:44]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:29:48]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:29:48]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:31:03]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:31:03]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:31:07]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:31:11]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:31:11]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:33:42]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:33:50]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:33:50]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:36:19]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:36:19]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:36:23]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:36:27]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:36:27]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:36:58]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:36:58]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:37:07]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:37:13]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:37:13]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:39:14]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:39:14]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 16:39:18]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:39:23]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:39:23]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:39:37]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:39:42]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:39:42]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:40:28]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:45:40]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:45:40]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:45:42]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:48:02]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:48:02]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:48:04]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 16:48:10]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 16:48:10]: Logowanie przebieglo pomyslnie
+[2017-11-26 16:48:12]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:48:30]: ŻĄDANIE 1: TAKE_FILE:147108%We.Are.Legion.2012.DVDRip.x264-NOGRP.srt%1504079805741
+[2017-11-26 16:48:30]: Rozpoczęto pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 16:48:30]: Ukończono pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 16:48:30]: ŻĄDANIE 1: TAKE_FILE:206717902%Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4%1503942418419
+[2017-11-26 16:48:30]: Rozpoczęto pobieranie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 16:48:32]: Ukończono pobieranie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 16:48:33]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:48:36]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:48:41]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 16:48:53]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:01:33]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:01:33]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:01:40]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:01:42]: ŻĄDANIE 1: GIVE_FILE:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:01:42]: Rozpoczęto wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:01:45]: Ukończono wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:01:52]: ŻĄDANIE 1: GIVE_FILE:Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:01:52]: Rozpoczęto wysyłanie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:01:53]: Ukończono wysyłanie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:02:30]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:02:35]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:02:35]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:02:38]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:02:43]: ŻĄDANIE 1: GIVE_FILE:Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:02:43]: Rozpoczęto wysyłanie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:02:43]: Ukończono wysyłanie pliku Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:04:07]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:04:18]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:04:18]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:04:20]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:05:03]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 17:05:03]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 17:05:05]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:05:05]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:05:07]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:05:10]: ŻĄDANIE 1: DELETE_FILES:Watch Merlin Season 1 Episode 1 Online Free - Watch Series.mp4
+[2017-11-26 17:05:10]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:05:10]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:05:11]: ŻĄDANIE 1: DELETE_FILES:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:05:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:05:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:05:11]: ŻĄDANIE 1: DELETE_FILES:We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 17:05:11]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:05:11]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:06:32]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:06:32]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 17:06:35]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:06:35]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 17:06:40]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:06:44]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:06:44]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:06:46]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 17:06:46]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 17:06:47]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:06:47]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:06:48]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:06:48]: Folder użytkownika o ID 1 jest pusty
+[2017-11-26 17:06:53]: ŻĄDANIE 1: LOGOUT
+[2017-11-26 17:06:53]: Użytkownik o ID: 1 został wylogowany
+[2017-11-26 17:06:55]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:06:55]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:07:01]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:07:01]: Uzytkownik 'Admin' jest juz zalogowany
+[2017-11-26 17:07:07]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:07:08]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:07:08]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:07:11]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:07:57]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:07:57]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:07:58]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:07:58]: Folder użytkownika o ID 1 jest pusty
+[2017-11-26 17:08:12]: ŻĄDANIE 1: TAKE_FILE:294229647%We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4%1504079453518
+[2017-11-26 17:08:12]: Rozpoczęto pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:08:16]: Ukończono pobieranie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:08:18]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:08:27]: ŻĄDANIE 1: GIVE_FILE:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:08:27]: Rozpoczęto wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:08:28]: Ukończono wysyłanie pliku We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:09:18]: ŻĄDANIE 1: DELETE_FILES:We Are Legion - The Story of the Hacktivists FULL MOVIE.mp4
+[2017-11-26 17:09:18]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:09:18]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:09:28]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 17:14:42]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 17:14:42]: Logowanie przebieglo pomyslnie
+[2017-11-26 17:14:49]: ŻĄDANIE 1: TAKE_FILE:1839779717%rtw.7z%1510579928193
+[2017-11-26 17:14:49]: Rozpoczęto pobieranie pliku rtw.7z
+[2017-11-26 17:15:42]: Ukończono pobieranie pliku rtw.7z
+[2017-11-26 17:15:44]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 17:16:06]: ŻĄDANIE 1: DELETE_FILES:rtw.7z
+[2017-11-26 17:16:06]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:16:06]: Ukończono usuwanie plików użytkownika o ID: 1
+[2017-11-26 17:16:20]: ŻĄDANIE 1: TAKE_FILE:147108%We.Are.Legion.2012.DVDRip.x264-NOGRP.srt%1504079805741
+[2017-11-26 17:16:20]: Rozpoczęto pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[2017-11-26 17:16:20]: Ukończono pobieranie pliku We.Are.Legion.2012.DVDRip.x264-NOGRP.srt
+[26.11.2017 17:47:36]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 17:47:36]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 17:47:37]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 17:47:38]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 17:47:38]: Logowanie przebieglo pomyslnie
+[26.11.2017 17:47:40]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 17:47:51]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 17:47:51]: Logowanie przebieglo pomyslnie
+[26.11.2017 17:51:47]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 17:51:58]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 17:51:58]: Logowanie przebieglo pomyslnie
+[26.11.2017 17:52:04]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:52:04]: Folder użytkownika o ID 1 jest pusty
+[26.11.2017 17:52:07]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:52:07]: Folder użytkownika o ID 1 jest pusty
+[26.11.2017 17:52:12]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:52:12]: Folder użytkownika o ID 1 jest pusty
+[26.11.2017 17:52:43]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 17:52:55]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 17:52:55]: Logowanie przebieglo pomyslnie
+[26.11.2017 17:52:57]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:52:57]: Folder użytkownika o ID 1 jest pusty
+[26.11.2017 17:53:01]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 17:53:28]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 17:53:29]: Logowanie przebieglo pomyslnie
+[26.11.2017 17:53:30]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:53:30]: Folder użytkownika o ID 1 jest pusty
+[26.11.2017 17:53:50]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[26.11.2017 17:53:50]: Rozpoczęto pobieranie pliku testowy2.txt
+[26.11.2017 17:53:50]: Ukończono pobieranie pliku testowy2.txt
+[26.11.2017 17:53:50]: ŻĄDANIE 1: TAKE_FILE:0%testowy 3.txt%1510488654669
+[26.11.2017 17:53:50]: Rozpoczęto pobieranie pliku testowy 3.txt
+[26.11.2017 17:53:50]: Ukończono pobieranie pliku testowy 3.txt
+[26.11.2017 17:53:56]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:53:58]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 17:55:29]: ŻĄDANIE 1: TAKE_FILE:35%testowy2.txt%1511613857053
+[26.11.2017 17:55:29]: Podany plik już istnieje.
+[26.11.2017 17:55:29]: ŻĄDANIE 1: TAKE_FILE:0%testowy 3.txt%1510488654669
+[26.11.2017 17:55:29]: Podany plik już istnieje.
+[26.11.2017 17:55:29]: ŻĄDANIE 1: TAKE_FILE:2633691394%Apollo 18 HD 480p ac3 pl 2011.avi%1349825058000
+[26.11.2017 17:55:29]: Rozpoczęto pobieranie pliku Apollo 18 HD 480p ac3 pl 2011.avi
+[26.11.2017 17:56:15]: Ukończono pobieranie pliku Apollo 18 HD 480p ac3 pl 2011.avi
+[26.11.2017 17:59:29]: ŻĄDANIE 1: TAKE_FILE:49%testowy2.txt%1511715439458
+[26.11.2017 17:59:29]: Rozpoczęto pobieranie pliku testowy2.txt
+[26.11.2017 17:59:29]: Ukończono pobieranie pliku testowy2.txt
+[26.11.2017 17:59:29]: ŻĄDANIE 1: TAKE_FILE:17%testowy 3.txt%1511715448947
+[26.11.2017 17:59:29]: Rozpoczęto pobieranie pliku testowy 3.txt
+[26.11.2017 17:59:29]: Ukończono pobieranie pliku testowy 3.txt
+[26.11.2017 17:59:29]: ŻĄDANIE 1: TAKE_FILE:1472839680%Dziewczyna.z.tatuazem.2011.BRRip.LektorPL.avi%1336741468000
+[26.11.2017 17:59:29]: Rozpoczęto pobieranie pliku Dziewczyna.z.tatuazem.2011.BRRip.LektorPL.avi
+[26.11.2017 17:59:49]: Ukończono pobieranie pliku Dziewczyna.z.tatuazem.2011.BRRip.LektorPL.avi
+[26.11.2017 17:59:52]: ŻĄDANIE 1: DELETE_FILES:testowy 3.txt
+[26.11.2017 17:59:52]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[26.11.2017 17:59:52]: Ukończono usuwanie plików użytkownika o ID: 1
+[26.11.2017 18:00:04]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:00:32]: ŻĄDANIE 1: TAKE_FILE:733962240%Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi%1345737358000
+[26.11.2017 18:00:32]: Rozpoczęto pobieranie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:00:39]: Ukończono pobieranie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:02:53]: ŻĄDANIE 1: DELETE_FILES:Dziewczyna.z.tatuazem.2011.BRRip.LektorPL.avi
+[26.11.2017 18:02:53]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[26.11.2017 18:02:53]: Ukończono usuwanie plików użytkownika o ID: 1
+[26.11.2017 18:02:54]: ŻĄDANIE 1: DELETE_FILES:Apollo 18 HD 480p ac3 pl 2011.avi
+[26.11.2017 18:02:54]: Rozpoczęto usuwanie plików użytkownika o ID: 1
+[26.11.2017 18:02:54]: Ukończono usuwanie plików użytkownika o ID: 1
+[26.11.2017 18:03:00]: ŻĄDANIE 1: LOGOUT
+[26.11.2017 18:03:00]: Użytkownik o ID: 1 został wylogowany
+[26.11.2017 18:03:08]: Zamknieto gniazdo serwera
+[26.11.2017 18:03:08]: Serwer został pomyślnie wyłączony
+[26.11.2017 18:03:08]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[26.11.2017 18:03:25]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:03:26]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:03:26]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:03:36]: Próba logowania klienta: LOGIN:%
+[26.11.2017 18:03:36]: Wystąpił błąd podczas weryfikacja klienta: java.lang.ArrayIndexOutOfBoundsException: 0
+[26.11.2017 18:03:52]: Zamknieto gniazdo serwera
+[26.11.2017 18:03:52]: Serwer został pomyślnie wyłączony
+[26.11.2017 18:03:52]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[26.11.2017 18:05:34]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:05:34]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:05:34]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:05:40]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:05:40]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:05:41]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:05:52]: Próba logowania klienta: LOGIN:%
+[26.11.2017 18:05:52]: Wystąpił błąd podczas weryfikacja klienta: java.lang.ArrayIndexOutOfBoundsException: 0
+[26.11.2017 18:05:59]: Zamknieto gniazdo serwera
+[26.11.2017 18:05:59]: Serwer został pomyślnie wyłączony
+[26.11.2017 18:05:59]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[26.11.2017 18:06:31]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:06:31]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:06:32]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:06:51]: Serwer został pomyślnie wyłączony
+[26.11.2017 18:06:51]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[26.11.2017 18:06:57]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:06:57]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:06:58]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:06:59]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:06:59]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:07:01]: ŻĄDANIE 1: LOGOUT
+[26.11.2017 18:07:01]: Użytkownik o ID: 1 został wylogowany
+[26.11.2017 18:07:06]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:07:06]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:07:09]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:07:11]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:07:11]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:07:48]: Nastąpił niespodziewany błąd podcas weryfikacji klienta: java.net.SocketException: Connection reset
+[26.11.2017 18:07:48]: Nieprawidłowy login lub hasło
+[26.11.2017 18:07:48]: Nastąpił niespodziewany błąd podcas weryfikacji klienta: java.net.SocketException: Connection reset
+[26.11.2017 18:07:48]: Nieprawidłowy login lub hasło
+[26.11.2017 18:08:05]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:08:05]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:08:07]: ŻĄDANIE 1: LOGOUT
+[26.11.2017 18:08:07]: Użytkownik o ID: 1 został wylogowany
+[26.11.2017 18:08:34]: Nastąpił niespodziewany błąd podcas weryfikacji klienta: java.net.SocketException: Connection reset
+[26.11.2017 18:08:34]: Nieprawidłowy login lub hasło
+[26.11.2017 18:08:34]: Nastąpił niespodziewany błąd podcas weryfikacji klienta: java.net.SocketException: Connection reset
+[26.11.2017 18:08:35]: Nieprawidłowy login lub hasło
+[26.11.2017 18:09:37]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:09:37]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:09:48]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:12:17]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:13:55]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:13:55]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:13:57]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:14:00]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:00]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:00]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:30]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:30]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:30]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:44]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:44]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:44]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:51]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:51]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:51]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:55]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:55]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:55]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:59]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:14:59]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:14:59]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:15:04]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:15:04]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:15:04]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:15:13]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:15:15]: Zamknieto gniazdo serwera
+[26.11.2017 18:15:15]: Serwer został pomyślnie wyłączony
+[26.11.2017 18:15:15]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
+[26.11.2017 18:21:03]: ------------------------------------>START APLIKACJI<-------------------------------------
+[26.11.2017 18:21:03]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[26.11.2017 18:21:04]: Uruchomiono serwer, numer portu: 49351
+[26.11.2017 18:21:09]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:21:09]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:21:34]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:21:38]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:21:38]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:21:38]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:22:00]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:23:37]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:23:37]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:23:39]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:23:43]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:23:43]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:23:44]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:23:46]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:23:46]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:23:46]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:24:56]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:24:56]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:24:56]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:00]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:00]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:00]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:03]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:03]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:03]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:05]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:05]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:05]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:08]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:08]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:08]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:33]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:33]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:33]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:38]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:25:38]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:25:38]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:28:09]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:28:20]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:28:20]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:28:22]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:28:48]: ŻĄDANIE 1: GIVE_FILE:testowy2.txt
+[26.11.2017 18:28:48]: Rozpoczęto wysyłanie pliku testowy2.txt
+[26.11.2017 18:28:48]: Ukończono wysyłanie pliku testowy2.txt
+[26.11.2017 18:29:03]: ŻĄDANIE 1: GIVE_FILE:Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:29:03]: Rozpoczęto wysyłanie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:29:08]: Ukończono wysyłanie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:30:30]: Zresetowano połączenie użytkownika o ID: 1
+[26.11.2017 18:30:41]: Próba logowania klienta: LOGIN:Admin%123
+[26.11.2017 18:30:41]: Logowanie przebieglo pomyslnie
+[26.11.2017 18:30:43]: ŻĄDANIE 1: SHOW_FILES:0
+[26.11.2017 18:31:05]: ŻĄDANIE 1: GIVE_FILE:Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:31:05]: Rozpoczęto wysyłanie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:31:11]: Ukończono wysyłanie pliku Hans.Kloss.Stawka.wieksza.niz.smierc.2012.PL.DVDRip.XviD-B89.avi
+[26.11.2017 18:31:15]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 18:45:32]: ------------------------------------>START APLIKACJI<-------------------------------------
+[2017-11-26 18:45:32]: Dane dostępnych użytkowników: 
+                         Admin 123 1 Archives//Admin 
+                         Adrian 345123 23 Archives//Adrian 
+                         Mateusz lubiemacka1 13 Archives//Mateusz 
+                         Maciek analiza12 666 Archives//Maciek 
+[2017-11-26 18:45:33]: Uruchomiono serwer, numer portu: 49351
+[2017-11-26 18:45:54]: Próba logowania klienta: LOGIN:Admin%123
+[2017-11-26 18:45:54]: Logowanie przebieglo pomyslnie
+[2017-11-26 18:45:56]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 18:45:59]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 18:46:16]: ŻĄDANIE 1: TAKE_FILE:100672%freenas-89.pdf%1508066434517
+[2017-11-26 18:46:16]: Rozpoczęto pobieranie pliku freenas-89.pdf
+[2017-11-26 18:46:16]: Ukończono pobieranie pliku freenas-89.pdf
+[2017-11-26 18:46:20]: ŻĄDANIE 1: SHOW_FILES:0
+[2017-11-26 18:46:25]: Zresetowano połączenie użytkownika o ID: 1
+[2017-11-26 18:46:27]: Zamknieto gniazdo serwera
+[2017-11-26 18:46:27]: Serwer został pomyślnie wyłączony
+[2017-11-26 18:46:27]: ------------------------------------>ZAMKNIECIE APLIKACJI<-------------------------------------
