@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1492287315807
+Build-Jdk: 1.8.0_102
+Built-By: elecharny
+Bundle-Description: Ftplets are, similar to servlets, an API to plug int
+ o the    request lifecycle of FtpServer. Ftplets are called on session 
+ connect    and disconnect as well as before and after each command with
+ in a user    session.
+Bundle-DocURL: https://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Ftplet API
+Bundle-SymbolicName: ftplet-api
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 1.1.1
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apache.ftpserver.ftplet;version="1.1.1"
+Implementation-Title: Apache Ftplet API
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache.ftpserver
+Implementation-Version: 1.1.1
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Specification-Title: Apache Ftplet API
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 1.1.1
+Tool: Bnd-2.3.0.201405100607

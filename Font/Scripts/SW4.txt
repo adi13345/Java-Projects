@@ -1,0 +1,19 @@
+system-view
+sysname SW4
+vlan 40
+interface Ethernet 0/0/1
+port link-type trunk
+port trunk allow-pass vlan 40
+quit
+interface vlan 40
+ip address 172.168.0.13 30
+quit
+vlan 30
+interface Ethernet 0/0/2
+port link-type trunk
+port trunk allow-pass vlan 30
+quit
+interface vlan 30
+ip address 172.168.0.10 30
+quit
+quit

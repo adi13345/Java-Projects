@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<class>
+    <!--<DeviceName>-->
+    <!--Nazwa urządzenia,np. "SW" dla ringu z 4 urządzeniami wygenerowane zostaną odpowiednio nazwy SW1,SW2,SW3,SW4-->
+    <!--.............................................................................................................-->
+    <!--<NumberOfDevice>-->
+    <!--Ilośc urządzeń w ringu-->
+    <!--.............................................................................................................-->
+    <!--<IPAddress>-->
+    <!--Adres ip musi być podany w pełni. W zależności od maski znaczenie będą miały różne oktety
+     Przykład, adres 192.168.123.45:
+     - dla maski 24 bitowej znaczenie bedzie miało 192.168.  - dalsza część adresu wygeneruje program
+     - dla maski 30 bitowej znaczenie będzie miało 192.168.123. -->
+    <!--.............................................................................................................-->
+    <!--<SubnetMask>-->
+    <!--Maska podsieci-->
+    <!--.............................................................................................................-->
+    <!--<IDDevicesGigabitEthernet>-->
+    <!-- Numery urządzeń, które zamiast port typu Ethernet mają port ypu GigabitEthernet
+    Przykład:
+    Jeśli mamy np. 10 urządzeń w ringu i czwarte,piąte oraz siódme urządzenie ma port GigaE. to należy wpisać 4#5#7 (znak # oddziela)-->
+    <!--.............................................................................................................-->
+    <DeviceName>SW</DeviceName>
+    <NumberOfDevices>4</NumberOfDevices>
+    <IPAddress>172.168.0.1</IPAddress>
+    <SubnetMask>30</SubnetMask>
+    <IDDevicesGigabitEthernet>1</IDDevicesGigabitEthernet>
+</class>

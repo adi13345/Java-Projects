@@ -1,0 +1,19 @@
+system-view
+sysname SW2
+vlan 20
+interface Ethernet 0/0/1
+port link-type trunk
+port trunk allow-pass vlan 20
+quit
+interface vlan 20
+ip address 172.168.0.5 30
+quit
+vlan 10
+interface Ethernet 0/0/2
+port link-type trunk
+port trunk allow-pass vlan 10
+quit
+interface vlan 10
+ip address 172.168.0.2 30
+quit
+quit

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<class>
+    <ExcelFilePath>file.xls</ExcelFilePath>
+    <FTPlo4jproperties>src\FTP\Properties\log4j.properties</FTPlo4jproperties>
+    <FTPuserspoperties>src\FTP\Properties\users.properties</FTPuserspoperties>
+</class>
