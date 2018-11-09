@@ -7,4 +7,7 @@ Kolejność powstawania:
 - Font
 - Archiver
 - WBDAplication
+- BEE_ATaplication
+- SSH_Script
+- SwarmLibrary (biblioteka, wciąż rozszerzana)
 
