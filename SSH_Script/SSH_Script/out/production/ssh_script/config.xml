@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<class>
+    <path_to_log_folder>user.dir</path_to_log_folder>
+    <session_timeout>50000</session_timeout> <!-- milisekundy -->
+    <channel_timeout>5000</channel_timeout> <!-- milisekundy -->
+    <ssh_port>22</ssh_port>
+    <host_ip_address>172.25.1.51</host_ip_address>
+    <user_name>huawei</user_name>
+    <user_password>huawei123</user_password>
+    <commands>display+fan-display+device-display+interface+brief- - -display+alarm+urgent-quit</commands>
+    <session_time>20</session_time> <!-- minuty -->
+</class>
