@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.LogInController">
+   <children>
+      <ListView fx:id="listViewServer" layoutX="307.0" layoutY="51.0" prefHeight="277.0" prefWidth="244.0" />
+      <TableView fx:id="tableViewClient" editable="true" layoutX="56.0" layoutY="51.0" prefHeight="277.0" prefWidth="251.0">
+         <columns>
+            <TableColumn fx:id="nameFileCol" prefWidth="152.0" text="File Name" />
+            <TableColumn fx:id="timeCol" prefWidth="117.0" text="Time" />
+         </columns></TableView>
+      <TextField fx:id="pathTextField" layoutX="58.0" layoutY="361.0" prefHeight="25.0" prefWidth="493.0" text="" />
+      <HBox layoutX="221.0" layoutY="328.0" prefHeight="25.0" prefWidth="172.0">
+         <children>
+            <Button fx:id="SendFileClientButton" mnemonicParsing="false" onAction="#methodSendFileClient" text="SendFile" />
+            <Button fx:id="LogOutButton" mnemonicParsing="false" onAction="#LogOut" text="LogOut" />
+            <Button fx:id="GetFileServerButton" mnemonicParsing="false" onAction="#methodGetFileServer" text="GetFile" />
+         </children>
+      </HBox>
+      <HBox layoutX="136.0" layoutY="14.0" prefHeight="36.0" prefWidth="362.0">
+         <children>
+            <Button fx:id="SelectFileClientButton" mnemonicParsing="false" onAction="#SelectMethodClient" prefHeight="25.0" prefWidth="88.0" text="Select File" />
+            <Button fx:id="DeleteFileClientButton" mnemonicParsing="false" onAction="#DeleteMethodClient" prefHeight="25.0" prefWidth="80.0" text="Delete File" />
+            <Button fx:id="ShowFileServerButton" mnemonicParsing="false" onAction="#showFileServer" text="Show File" />
+            <Button fx:id="DeleteFleServerButton" mnemonicParsing="false" onAction="#deleteFileServer" prefHeight="25.0" prefWidth="111.0" text="Delete File Server" />
+         </children>
+      </HBox>
+   </children>
+</Pane>
