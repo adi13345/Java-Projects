@@ -1,4 +1,4 @@
-Prosta aplikacja stworzona umożliwiająca nawiązywanie połaczenia z urządzeniem (serwerem SSH) przy pomocy protokołu SSH.
+Prosta aplikacja umożliwiająca nawiązywanie połaczenia z urządzeniem (serwerem SSH) przy pomocy protokołu SSH.
 Aplikacja (po nawiązaniu komunikacji) wysyła określone komendy i zbiera odpowiedni output zapisując go do pliku z logami.
 Aplikacja jest jednowątkowa, lecz docelowo ma obslugiwac wiele urządzeń (10 - 50) jednocześnie, podtrzymywać sesję dowolnie długo oraz nawiązywać połączenia w określonym czasie (przykładowo raz na miesiąc o godzinie 17.00)
 W aplikacji została wykorzystana (stworzona przez mnie) biblioteka Swarm, zawierająca m. in. obudowaną bilbioteke JSch implementującą protokół SSH
