@@ -94,7 +94,7 @@ public class Server {
 
             }
         }
-        catch(SocketException er){//--------------------------->WALI BLEDEM ZAWSZE<----------------------------
+        catch(SocketException er){
             System.out.println(ConsoleFrame.getTimeandDate()+ "Zamknieto gniazdo serwera");//komunikat
             if(ConsoleFrame.textarea_ != null) {//sprawdzenie czy nie zamknieto okna konsoli
                 ConsoleFrame.textarea_.append(ConsoleFrame.getTimeandDate() + "Zamknieto gniazdo serwera"+"\n");//komunikat
